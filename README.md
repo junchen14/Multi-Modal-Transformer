@@ -4,7 +4,7 @@ In this repository, I will udpate the recent Transformer paper and code includin
 
 I also welcome other people to join me and uploading the related paper and code!
 
-In each subsection, we collect the related papers and datasets with their downloading links. 
+In each section, we collect the related papers and datasets with their downloading links. 
 
 ### Topics
 #### [Image Transformer](image-transformer.md) 
