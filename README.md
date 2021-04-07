@@ -2,8 +2,6 @@
 
 In this repository, I will udpate the recent Transformer paper and code including the domains of **Vision Transformer**, **NLP** and **multi-modal**, etc.  
 
-I also welcome other people to join me and uploading the related paper and code!
-
 In each section, we collect the related papers and datasets with their downloading links. 
 
 ### Topics
