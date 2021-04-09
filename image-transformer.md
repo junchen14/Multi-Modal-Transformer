@@ -10,7 +10,7 @@
 |6|TNT |Transformer in Transformer|[paper](https://arxiv.org/pdf/2103.00112.pdf) [code](https://github.com/huawei-noah/noah-research/tree/master/TNT)  |__arXiv__|Noah's Ark Lab|27 Feb 2021|
 |7|PiT |Rethinking Spatial Dimensions of Vision Transformers|[paper](https://arxiv.org/pdf/2103.16302.pdf) [code](https://github.com/naver-ai/pit)  |__arXiv__|NAVER AI Lab|30 Mar 2021|
 |8|T2T-ViT |Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet|[paper](https://arxiv.org/pdf/2101.11986.pdf) [code](https://github.com/yitu-opensource/T2T-ViT)  |__arXiv__| NUS|22 Mar 2021|
-
+|9|CPVT |Conditional Positional Encodings for Vision Transformers|[paper](https://arxiv.org/pdf/2102.10882.pdf) [code](https://github.com/Meituan-AutoML/CPVT)  |__arXiv__| Meituan Inc|18 Mar 2021|
 
 
 
