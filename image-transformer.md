@@ -7,6 +7,8 @@
 |3|Swin Transformer |Swin Transformer: Hierarchical Vision Transformer using Shifted Windows |[paper](https://arxiv.org/pdf/2103.14030.pdf) [code](https://github.com/microsoft/Swin-Transformer)  |__arXiv__|MSRA|25 Mar 2021|
 |4|DeiT Transformer |Training data-efficient image transformers& distillation through attention |[paper](https://arxiv.org/pdf/2012.12877.pdf) [code](https://github.com/facebookresearch/deit)  |__arXiv__|Facebook AI|15 Jan 2021|
 |5|Pyramid Vision Transformer |Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions|[paper](https://arxiv.org/abs/2102.12122) [code](https://github.com/whai362/PVT)  |__arXiv__|Nanjing University of Science and Technology|24 Feb 2021|
+|6|Transformer in Transformer |Transformer in Transformer|[paper](Transformer in Transformer) [code](https://github.com/huawei-noah/noah-research/tree/master/TNT)  |__arXiv__|Noah's Ark Lab|27 Feb 2021|
+|7|PiT |Rethinking Spatial Dimensions of Vision Transformers|[paper](https://arxiv.org/pdf/2103.16302.pdf) [code](https://github.com/naver-ai/pit)  |__arXiv__|NAVER AI Lab|30 Mar 2021|
 
 
 
