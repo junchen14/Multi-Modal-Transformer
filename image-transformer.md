@@ -9,6 +9,7 @@
 |5|Pyramid Vision Transformer |Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions|[paper](https://arxiv.org/abs/2102.12122) [code](https://github.com/whai362/PVT)  |__arXiv__|Nanjing University of Science and Technology|24 Feb 2021|
 |6|Transformer in Transformer |Transformer in Transformer|[paper](Transformer in Transformer) [code](https://github.com/huawei-noah/noah-research/tree/master/TNT)  |__arXiv__|Noah's Ark Lab|27 Feb 2021|
 |7|PiT |Rethinking Spatial Dimensions of Vision Transformers|[paper](https://arxiv.org/pdf/2103.16302.pdf) [code](https://github.com/naver-ai/pit)  |__arXiv__|NAVER AI Lab|30 Mar 2021|
+|8|T2T-ViT |Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet|[paper](https://arxiv.org/pdf/2101.11986.pdf) [code](https://github.com/yitu-opensource/T2T-ViT)  |__arXiv__| NUS|22 Mar 2021|
 
 
 
