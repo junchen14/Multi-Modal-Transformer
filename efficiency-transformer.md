@@ -10,7 +10,7 @@
 |7|Compressive Transformer |Compressive Transformers for Long-Range Sequence Modelling |[paper](https://openreview.net/pdf?id=SylKikSYDH) [code](https://github.com/lucidrains/compressive-transformer-pytorch)|__ICLR 2020__|Deep Mind|25 Sep 2019|
 |8|Transformer-XL |Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context |[paper](https://arxiv.org/abs/1901.02860) [code](https://github.com/kimiyoung/transformer-xl)|__ACL 2019__|CMU|9 Jan 2019|
 |9|Big Bird |Big Bird: Transformers for Longer Sequences |[paper](https://arxiv.org/abs/2007.14062) [code](https://github.com/google-research/bigbird)|__NeurIPS 2020__|Google Research|8 Jan 2021|
-|10|Adaptive-Span |Adaptive Attention Span in Transformers |[paper](https://arxiv.org/pdf/1905.07799.pdf) [code](https://github.com/facebookresearch/adaptive-span)|__NeurIPS 2020__|Google Research|8 Jan 2021|
+|10|Adaptive-Span |Adaptive Attention Span in Transformers |[paper](https://arxiv.org/pdf/1905.07799.pdf) [code](https://github.com/facebookresearch/adaptive-span)|__ACL 2019__|Facebook AI|19 May 2019|
 
 
 
