@@ -8,6 +8,8 @@
 |4|BP-Transformer |BP-Transformer: Modelling Long-Range Context via Binary Partitioning |[paper](https://arxiv.org/pdf/1911.04070.pdf) [code](https://github.com/yzh119/BPT)|__arXiv__|AWS Shanghai AI Lab|11 November 2019|
 |5|Routing Transformer |Efficient Content-Based Sparse Attention with Routing Transformers |[paper](https://openreview.net/forum?id=B1gjs6EtDr) [code](https://github.com/lucidrains/routing-transformer)|__ICLR 2020__|Google AI|1 Februray 2021|
 |7|Compressive Transformer |Compressive Transformers for Long-Range Sequence Modelling |[paper](https://openreview.net/pdf?id=SylKikSYDH) [code](https://github.com/lucidrains/compressive-transformer-pytorch)|__ICLR 2020__|Deep Mind|25 Sep 2019|
+|8|Transformer-XL |Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context |[paper](https://arxiv.org/abs/1901.02860) [code](https://github.com/kimiyoung/transformer-xl)|__ACL 2019__|CMU|9 Jan 2019|
+
 
 
 
