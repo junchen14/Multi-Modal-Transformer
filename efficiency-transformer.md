@@ -11,6 +11,8 @@
 |8|Transformer-XL |Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context |[paper](https://arxiv.org/abs/1901.02860) [code](https://github.com/kimiyoung/transformer-xl)|__ACL 2019__|CMU|9 Jan 2019|
 |9|Big Bird |Big Bird: Transformers for Longer Sequences |[paper](https://arxiv.org/abs/2007.14062) [code](https://github.com/google-research/bigbird)|__NeurIPS 2020__|Google Research|8 Jan 2021|
 |10|Adaptive-Span |Adaptive Attention Span in Transformers |[paper](https://arxiv.org/pdf/1905.07799.pdf) [code](https://github.com/facebookresearch/adaptive-span)|__ACL 2019__|Facebook AI|19 May 2019|
+|11|reformer |reformer: the efficient transformer |[paper](https://arxiv.org/abs/2001.04451) [code](https://github.com/lucidrains/reformer-pytorch)|__ICLR 2020__|Google AI|13 Jan 2020|
+
 
 
 
