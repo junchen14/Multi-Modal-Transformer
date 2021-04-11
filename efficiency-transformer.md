@@ -9,7 +9,7 @@
 |5|Routing Transformer |Efficient Content-Based Sparse Attention with Routing Transformers |[paper](https://openreview.net/forum?id=B1gjs6EtDr) [code](https://github.com/lucidrains/routing-transformer)|__ICLR 2020__|Google AI|1 Februray 2021|
 |7|Compressive Transformer |Compressive Transformers for Long-Range Sequence Modelling |[paper](https://openreview.net/pdf?id=SylKikSYDH) [code](https://github.com/lucidrains/compressive-transformer-pytorch)|__ICLR 2020__|Deep Mind|25 Sep 2019|
 |8|Transformer-XL |Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context |[paper](https://arxiv.org/abs/1901.02860) [code](https://github.com/kimiyoung/transformer-xl)|__ACL 2019__|CMU|9 Jan 2019|
-
+|9|Big Bird |Big Bird: Transformers for Longer Sequences |[paper](https://arxiv.org/abs/2007.14062) [code](https://github.com/google-research/bigbird)|__NeurIPS 2020__|Google Research|8 Jan 2021|
 
 
 
