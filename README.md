@@ -4,6 +4,12 @@ In this repository, I will udpate the recent Transformer paper and code includin
 
 In each section, we collect the related papers and datasets with their downloading links. 
 
+### Recent News
+The code of TimeSformer is open sourced.  The paper and code can be found [here](video-language-transformer.md)  
+
+
+
+
 ### Topics
 #### [Image Transformer](image-transformer.md) 
 
