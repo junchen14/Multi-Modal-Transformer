@@ -3,7 +3,6 @@
 This repo is to collect all the recent popular Transformer paper and code related to the domains of **Vision Transformer**, **NLP** and **multi-modal**, etc.  
 It also collects the related learning materials.
 
-In each section, we collect the related papers, datasets and code 
 
 ### Recent News
  > The code of TimeSformer is open sourced.  The paper and code can be found [here](video-transformer.md)
@@ -15,7 +14,7 @@ In each section, we collect the related papers, datasets and code
 
 
 
-### Topics
+### Topics (paper and code)
 #### [Image Transformer](image-transformer.md) 
 
 
