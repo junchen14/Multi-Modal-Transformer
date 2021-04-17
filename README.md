@@ -5,7 +5,8 @@ In this repository, I will udpate the recent Transformer paper and code includin
 In each section, we collect the related papers and datasets with their downloading links. 
 
 ### Recent News
- > The code of TimeSformer is open sourced.  The paper and code can be found [here](video-transformer.md) 
+ > The code of TimeSformer is open sourced.  The paper and code can be found [here](video-transformer.md)
+
  > The code of SwinTransformer is open sourced. The apper and code can be found [here](image-transformer.md) 
 
 
