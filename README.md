@@ -5,13 +5,17 @@ It also collects the related learning materials.
 
 
 ### Recent News
- > The code of Kaleido-BERT is open sourced. The paper and coda can be found [here](image-language-transformer.md)
+> The code of CoaT is open sourced. The paper and code can be found [here](image-transformer.md)
+
+> The code of Kaleido-BERT is open sourced. The paper and coda can be found [here](image-language-transformer.md)
  
  > The code of TimeSformer is open sourced.  The paper and code can be found [here](video-transformer.md)
 
  > The code of SwinTransformer is open sourced. The paper and code can be found [here](image-transformer.md) 
  
  > The code of VisualGPT is open sourced. The paper and code can be found [here](image-language-tranformer.md)
+ 
+
  
 
 
