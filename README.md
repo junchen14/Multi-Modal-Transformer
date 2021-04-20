@@ -1,5 +1,7 @@
 # Reading list in Transformer
 
+We are a team from KAUST [Vision-CAIR group](https://cemse.kaust.edu.sa/vision-cair/people) and focus on the Vision Transformer and Multi-modal learning. 
+
 This repo is to collect all the recent popular Transformer paper and code related to the domains of **Vision Transformer**, **NLP** and **multi-modal**, etc.  
 It also collects the related learning materials.
 
