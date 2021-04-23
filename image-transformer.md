@@ -15,8 +15,8 @@
 |11|CoaT |Co-Scale Conv-Attentional Image Transformer|[paper](https://arxiv.org/abs/2104.06399) [code](https://github.com/mlpc-ucsd/CoaT)  |__arXiv__| University of California San Diego|13 April 2021|
 |12|CoaT |Co-Scale Conv-Attentional Image Transformer|[paper](https://arxiv.org/abs/2104.06399) [code](https://github.com/mlpc-ucsd/CoaT)  |__arXiv__| University of California San Diego|13 April 2021|
 |13|pruning |Visual Transforemr Pruning | [paper](https://arxiv.org/pdf/2104.08500.pdf) |__arXiv__|Zhejiang University| 17 April 2021 |
-
-
+|14|pruning |Visual Transforemr Pruning | [paper](https://arxiv.org/pdf/2104.08500.pdf) |__arXiv__|Zhejiang University| 17 April 2021 |
+|ViL| Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding| [paper](https://arxiv.org/pdf/2103.15358.pdf) |__arXiv__|Microsoft Corporation |
 
 
 
