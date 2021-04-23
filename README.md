@@ -18,7 +18,7 @@ It also collects the related learning materials.
 
  > The code of SwinTransformer is open sourced. The paper and code can be found [here](image-transformer.md) 
  
- > The code of VisualGPT is open sourced. The paper and code can be found [here](image-language-tranformer.md)
+ > The code of VisualGPT is open sourced. The paper and code can be found [here](image-language-transformer.md)
  
 
  
