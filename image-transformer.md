@@ -17,6 +17,8 @@
 |13|pruning |Visual Transforemr Pruning | [paper](https://arxiv.org/pdf/2104.08500.pdf) |__arXiv__|Zhejiang University| 17 April 2021 |
 |14|pruning |Visual Transforemr Pruning | [paper](https://arxiv.org/pdf/2104.08500.pdf) |__arXiv__|Zhejiang University| 17 April 2021 |
 |15|ViL| Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding| [paper](https://arxiv.org/pdf/2103.15358.pdf) |__arXiv__|Microsoft Corporation |29 Mar 2021|
+|16|M2TR| M2TR: Multi-modal Multi-scale Transformersfor Deepfake Detection | [paper](https://arxiv.org/pdf/2104.09770.pdf) | __arXiv__ | Fudan Univeristy | 21 Apr 2021 |
+
 
 
 
