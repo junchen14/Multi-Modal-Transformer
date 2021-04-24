@@ -8,6 +8,8 @@ It also collects the related learning materials.
 
 ### Recent News
 
+> Vision Transformer for deepfake detection. The paper can be found [here](image-transformer.md)
+
 > The code of VideoGPT is open sourced. The paper and code can be found [here](video-transformer.md)
 
 > The code of CoaT is open sourced. The paper and code can be found [here](image-transformer.md)
