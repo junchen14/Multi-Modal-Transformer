@@ -36,10 +36,10 @@ It also collects the related learning materials.
 #### [Video Transformer](video-transformer.md)
 
 
-#### [Video & Language Transformer](video-language-transformer.md)
+#### [Video & Language & other modality Transformer](video-language-transformer.md)
 
 
-#### [Image & language Trasformer](image-language-transformer.md)
+#### [Image & language & other modlity Trasformer](image-language-transformer.md)
 
 
 #### [Natural Language Processing Transformer](natural-language-process-transformer.md)
