@@ -42,7 +42,7 @@ It also collects the related learning materials.
 #### [Image & language & other modlity Trasformer](image-language-transformer.md)
 
 
-#### [Natural Language Processing Transformer](natural-language-process-transformer.md)
+#### [Natural Language Processing Transformer](NLP-transformer.md)
 
 
 #### [Efficient Transformer](efficiency-transformer.md)
