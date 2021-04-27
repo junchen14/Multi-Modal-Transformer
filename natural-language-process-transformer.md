@@ -7,3 +7,4 @@
 |2|GPT3|Language Models are Few-Shot Learners|[paper](https://arxiv.org/abs/2005.14165) | __NeuRIPS 2020__ | OpenAI | May 2020|
 |3|GPT2|Language Models are Unsupervised Multitask Learners |[paper](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) [code](https://github.com/openai/gpt-2)|__arXiv__ | OpenAI | Feb 2019|
 |4| RoBERTa | RoBERTa: A Robustly Optimized BERT Pretraining Approach | [paper](https://arxiv.org/abs/1907.11692) | __arXiv__ |Facebook AI | Jul 2019|
+|5| XLNet |XLNet: Generalized Autoregressive Pretraining for Language Understanding|  [paper](https://arxiv.org/abs/1906.08237) [code](https://github.com/zihangdai/xlnet) |__NeuRIPS 2019__| Google | Jun 2019|
