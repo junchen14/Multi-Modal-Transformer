@@ -55,5 +55,7 @@ It also collects the related learning materials.
 
 ### Tools
 [PyTorchVideo](https://pytorchvideo.org/) a deep learning library for video understanding research
+[horovod](https://github.com/horovod/horovod) a tool for multi-gpu parallel processing
+
 
 
