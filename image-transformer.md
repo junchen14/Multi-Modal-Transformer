@@ -19,6 +19,7 @@
 |15|ViL| Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding| [paper](https://arxiv.org/pdf/2103.15358.pdf) |__arXiv__|Microsoft Corporation |29 Mar 2021|
 |16|M2TR| M2TR: Multi-modal Multi-scale Transformersfor Deepfake Detection | [paper](https://arxiv.org/pdf/2104.09770.pdf) | __arXiv__ | Fudan Univeristy | 21 Apr|
 |17|VisTransformer | Visformer: The Vision-friendly Transformer |[paper](https://arxiv.org/pdf/2104.12533.pdf) [code](https://github.com/danczs/Visformer) | __arXiv__ | Beihang University | 26 April 2021|
+|18| ConTNet | ConTNet: Why not use convolution and transformer at the same time?| [paper](https://arxiv.org/pdf/2104.13497.pdf) [code](https://github.com/yan-hao-tian/ConTNet)|__arXiv__| ByteDance AI Lab | 27 Apr 2021 |
 
 
 
