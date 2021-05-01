@@ -8,7 +8,9 @@ It also collects the related learning materials.
 
 ### Recent News
 
-> The code and paper of Twins-SVT is open sourced. The apper and code can be found [here](image-transformer.md)	
+> The code and papper of RelTransformer is open sourced. The paper and code can be found [here](image-transformer.md)
+
+> The code and paper of Twins-SVT is open sourced. The paper and code can be found [here](image-transformer.md)	
 
 > Vision Transformer for deepfake detection. The paper can be found [here](image-transformer.md)
 
