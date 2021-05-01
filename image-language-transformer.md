@@ -11,7 +11,7 @@
 
 |No.  |Model Name |Title |Links |Pub. | Organization| Release Time | 
 |-----|:-----:|:-----:|:-----:|:--------:|:---:|:-------:|
-|1|MDTER|  MDETR - Modulated Detection for End-to-End Multi-Modal Understanding   [paper](https://arxiv.org/pdf/2104.12763.pdf)  [code](https://github.com/ashkamath/mdetr)  | __arXiv__|NYU |26 April 2021|
+|1|MDTER|  MDETR - Modulated Detection for End-to-End Multi-Modal Understanding   | [paper](https://arxiv.org/pdf/2104.12763.pdf)  [code](https://github.com/ashkamath/mdetr)  | __arXiv__|NYU |26 April 2021|
 
 
 
