@@ -54,6 +54,8 @@ It also collects the related learning materials.
 #### [Efficient Transformer](efficiency-transformer.md)
 
 
+#### [MLP for Image Classification](MLP-mixer.md)
+
 ### Tutorials
 
 
