@@ -1,4 +1,4 @@
-# Video Transformer
+# MLP for image classification
 
 |No.  |Model Name |Title |Links |Pub. | Organization| Release Time |
 |-----|:-----:|:-----:|:-----:|:--------:|:---:|:-------:|
