@@ -8,6 +8,8 @@ It also collects the related learning materials.
 
 ### Recent News
 
+> The paper MLP-Mixer: An all-MLP Architecture for Vision is availble [here](MLP-mixer.md)
+
 > The code and paper of MDTER is open sourced. They can be found [here](image-language-transformer.md)
 
 > The code and papper of RelTransformer is open sourced. They can be found  [here](image-transformer.md)
