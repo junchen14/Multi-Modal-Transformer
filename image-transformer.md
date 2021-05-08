@@ -21,6 +21,7 @@
 |17|VisTransformer | Visformer: The Vision-friendly Transformer |[paper](https://arxiv.org/pdf/2104.12533.pdf) [code](https://github.com/danczs/Visformer) | __arXiv__ | Beihang University | 26 April 2021|
 |18| ConTNet | ConTNet: Why not use convolution and transformer at the same time?| [paper](https://arxiv.org/pdf/2104.13497.pdf) [code](https://github.com/yan-hao-tian/ConTNet)|__arXiv__| ByteDance AI Lab | 27 Apr 2021 |
 |19| Twins-SVT | Twins: Revisiting the Design of Spatial Attention in Vision Transformers  | [paper](https://arxiv.org/pdf/2104.13840.pdf) [code](https://github.com/Meituan-AutoML/Twins) |__arXiv__ | Meituan Inc | 28 Apr 2021|
+|20|LeViT| LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference| [paper](https://arxiv.org/pdf/2104.01136.pdf) [code](https://github.com/facebookresearch/LeViT) | __arXiv__ | Facebook | 6 May 2021 |
 
 # Viusal Relationship Detection
 |No.  |Model Name |Title |Links |Pub. | Organization| Release Time | 
