@@ -8,6 +8,9 @@ It also collects the related learning materials.
 
 ### Recent News
 
+ 
+> The code of VisualGPT is open sourced. They can be found  [here](image-language-transformer.md)
+
 > The code and paper of LeViT is open sourced. They can be found [here](image-transformer.md)
 
 > The paper MLP-Mixer: An all-MLP Architecture for Vision is availble [here](MLP-mixer.md)
@@ -29,8 +32,7 @@ It also collects the related learning materials.
  > The code of TimeSformer is open sourced.  They can be found  [here](video-transformer.md)
 
  > The code of SwinTransformer is open sourced. They can be found  [here](image-transformer.md) 
- 
- > The code of VisualGPT is open sourced. They can be found  [here](image-language-transformer.md)
+
  
 
  
