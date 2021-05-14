@@ -62,6 +62,10 @@ It also collects the related learning materials.
 
 #### [MLP for Image Classification](MLP-mixer.md)
 
+
+### [Review Paper in multi-modal](paper-review.md)
+
+
 ### Tutorials
 
 
