@@ -12,6 +12,12 @@
 |8|CLIP4CLIP| CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval | [paper](https://arxiv.org/pdf/2104.08860.pdf) [code](https://github.com/ArrowLuo/CLIP4Clip)  |   __arXiv__|  Southwest Jiaotong University | 18 April 2021 |
 
 
+# Vision & Language Naviagation
+
+|No.  |Model Name |Title |Links |Pub. | Organization| Release Time |
+|-----|:-----:|:-----:|:-----:|:--------:|:---:|:-------:|
+|1|Episodic Tranformer |Episodic Transformer for Vision-and-Language Navigation |[paper](https://arxiv.org/pdf/2105.06453.pdf) |__Arxiv__|Inria|1 Nov 2020|
+
 
 
 
