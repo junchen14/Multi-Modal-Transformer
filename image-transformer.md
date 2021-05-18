@@ -14,7 +14,6 @@
 |10|ViL |Multi-Scale Vision Longformer:A New Vision Transformer for High-Resolution Image Encoding|[paper](https://arxiv.org/pdf/2103.15358.pdf)   |__arXiv__| Microsoft Corporation|29 Mar 2021|
 |11|CoaT |Co-Scale Conv-Attentional Image Transformer|[paper](https://arxiv.org/abs/2104.06399) [code](https://github.com/mlpc-ucsd/CoaT)  |__arXiv__| University of California San Diego|13 April 2021|
 |12|CoaT |Co-Scale Conv-Attentional Image Transformer|[paper](https://arxiv.org/abs/2104.06399) [code](https://github.com/mlpc-ucsd/CoaT)  |__arXiv__| University of California San Diego|13 April 2021|
-|13|pruning |Visual Transforemr Pruning | [paper](https://arxiv.org/pdf/2104.08500.pdf) |__arXiv__|Zhejiang University| 17 April 2021 |
 |14|pruning |Visual Transforemr Pruning | [paper](https://arxiv.org/pdf/2104.08500.pdf) |__arXiv__|Zhejiang University| 17 April 2021 |
 |15|ViL| Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding| [paper](https://arxiv.org/pdf/2103.15358.pdf) |__arXiv__|Microsoft Corporation |29 Mar 2021|
 |16|M2TR| M2TR: Multi-modal Multi-scale Transformersfor Deepfake Detection | [paper](https://arxiv.org/pdf/2104.09770.pdf) | __arXiv__ | Fudan Univeristy | 21 Apr|
@@ -22,7 +21,7 @@
 |18| ConTNet | ConTNet: Why not use convolution and transformer at the same time?| [paper](https://arxiv.org/pdf/2104.13497.pdf) [code](https://github.com/yan-hao-tian/ConTNet)|__arXiv__| ByteDance AI Lab | 27 Apr 2021 |
 |19| Twins-SVT | Twins: Revisiting the Design of Spatial Attention in Vision Transformers  | [paper](https://arxiv.org/pdf/2104.13840.pdf) [code](https://github.com/Meituan-AutoML/Twins) |__arXiv__ | Meituan Inc | 28 Apr 2021|
 |20|LeViT| LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference| [paper](https://arxiv.org/pdf/2104.01136.pdf) [code](https://github.com/facebookresearch/LeViT) | __arXiv__ | Facebook | 6 May 2021 |
-|21| PiT | Rethinking Spatial Dimensions of Vision Transformers | [paper](https://arxiv.org/abs/2103.16302) [code](https://github.com/naver-ai/pit) |__arXiv__ | Alibaba | 30 March |
+
 
 # Viusal Relationship Detection
 |No.  |Model Name |Title |Links |Pub. | Organization| Release Time | 
