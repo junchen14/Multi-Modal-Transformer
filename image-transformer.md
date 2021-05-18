@@ -22,6 +22,7 @@
 |18| ConTNet | ConTNet: Why not use convolution and transformer at the same time?| [paper](https://arxiv.org/pdf/2104.13497.pdf) [code](https://github.com/yan-hao-tian/ConTNet)|__arXiv__| ByteDance AI Lab | 27 Apr 2021 |
 |19| Twins-SVT | Twins: Revisiting the Design of Spatial Attention in Vision Transformers  | [paper](https://arxiv.org/pdf/2104.13840.pdf) [code](https://github.com/Meituan-AutoML/Twins) |__arXiv__ | Meituan Inc | 28 Apr 2021|
 |20|LeViT| LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference| [paper](https://arxiv.org/pdf/2104.01136.pdf) [code](https://github.com/facebookresearch/LeViT) | __arXiv__ | Facebook | 6 May 2021 |
+|21| PiT | Rethinking Spatial Dimensions of Vision Transformers | [paper](https://arxiv.org/abs/2103.16302) [code](https://github.com/naver-ai/pit) |__arXiv__ | Alibaba | 30 March |
 
 # Viusal Relationship Detection
 |No.  |Model Name |Title |Links |Pub. | Organization| Release Time | 
