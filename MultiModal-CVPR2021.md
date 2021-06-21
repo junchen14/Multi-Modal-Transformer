@@ -49,7 +49,7 @@
 |6| VinVL | VinVL: Revisiting Visual Representations in Vision-Language Models | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_VinVL_Revisiting_Visual_Representations_in_Vision-Language_Models_CVPR_2021_paper.pdf) [code](https://github.com/pzzhang/VinVL) | CVPR 2021 | Microsoft |
 |7| -| Domain-robus VQA with diverse datasets and methods but no target labels | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Domain-Robust_VQA_With_Diverse_Datasets_and_Methods_but_No_Target_CVPR_2021_paper.pdf) | CVPR 2021 | University of Pittsburgh |
 |8| PCME | Probabilistic Embeddings for Cross-Modal Retrieval | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chun_Probabilistic_Embeddings_for_Cross-Modal_Retrieval_CVPR_2021_paper.pdf) [code](https://github.com/naver-ai/pcme) | CVPR 2021 | NAVER AI Lab|
-|9| -| Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers |CVPR 2021 | DeepMind|
+|9| -| Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers |[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Miech_Thinking_Fast_and_Slow_Efficient_Text-to-Visual_Retrieval_With_Transformers_CVPR_2021_paper.pdf)| CVPR 2021 | DeepMind|
 
 
 
