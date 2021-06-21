@@ -21,3 +21,14 @@
 |No.  |Model Name |Title |Links |Pub. | Organization| 
 |-----|:-----:|:-----:|:-----:|:--------:|:---:|
 |0|-|Semantic-Aware Video Text Detection |[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Feng_Semantic-Aware_Video_Text_Detection_CVPR_2021_paper.pdf) | CVPR 2021 | National Laboratory of Pattern Recognition |
+
+### Video Moment Retreival
+|No.  |Model Name |Title |Links |Pub. | Organization| 
+|-----|:-----:|:-----:|:-----:|:--------:|:---:|
+|0|-| Multi-Modal Relational Graph for Cross-Modal Video Moment Retrieval|[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zeng_Multi-Modal_Relational_Graph_for_Cross-Modal_Video_Moment_Retrieval_CVPR_2021_paper.pdf) | CVPR 2021 | -|
+
+### video-audio-text 
+|No.  |Model Name |Title |Links |Pub. | Organization| 
+|-----|:-----:|:-----:|:-----:|:--------:|:---:|
+|0|| How2Sign: A Large-scale Multimodal Datasetfor Continuous American Sign Language|[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Duarte_How2Sign_A_Large-Scale_Multimodal_Dataset_for_Continuous_American_Sign_Language_CVPR_2021_paper.pdf) | CVPR 2021 | Universitat Polit`ecnica de Catalunya|
+
