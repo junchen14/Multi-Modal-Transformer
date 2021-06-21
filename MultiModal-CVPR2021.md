@@ -53,9 +53,7 @@
 
 
 
-
-
-### Video&Text
+### Video\&Text
 |0| ClipBERT | Less Is More: ClipBERT for Video-and-Language Learning via Sparse Sampling  | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lei_Less_Is_More_ClipBERT_for_Video-and-Language_Learning_via_Sparse_Sampling_CVPR_2021_paper.pdf) [code](https://github.com/jayleicn/ClipBERT) | CVPR 2021 | UNC|
 
 ### 3D cross-modal retreival
