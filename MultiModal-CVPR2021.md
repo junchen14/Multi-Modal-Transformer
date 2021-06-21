@@ -26,6 +26,7 @@
 |1| TRBA | What If We Only Use Real Datasets for Scene Text Recognition?Toward Scene Text Recognition With Fewer Labels | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Baek_What_if_We_Only_Use_Real_Datasets_for_Scene_Text_CVPR_2021_paper.pdf) [code](https://github.com/ku21fan/STR-Fewer-Labels) | CVPR 2021 | The University of Tokyo|
 |2| Multiplexed TextSpotter | A Multiplexed Network for End-to-End, Multilingual OCR| [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_A_Multiplexed_Network_for_End-to-End_Multilingual_OCR_CVPR_2021_paper.pdf)| CVPR 2021 | Facebook AI|
 |3|STKM | Self-attention based Text Knowledge Mining for Text Detection | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wan_Self-Attention_Based_Text_Knowledge_Mining_for_Text_Detection_CVPR_2021_paper.pdf) | CVPR 2021 | Shenzhen University |
+|4| TextOCR | TextOCR: Towards large-scale end-to-end reasoningfor arbitrary-shaped scene text | CVPR 2021 | Facebook AI Research|
 
 ### Video Moment Retreival
 |No.  |Model Name |Title |Links |Pub. | Organization| 
@@ -50,13 +51,29 @@
 |7| -| Domain-robus VQA with diverse datasets and methods but no target labels | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Domain-Robust_VQA_With_Diverse_Datasets_and_Methods_but_No_Target_CVPR_2021_paper.pdf) | CVPR 2021 | University of Pittsburgh |
 |8| PCME | Probabilistic Embeddings for Cross-Modal Retrieval | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chun_Probabilistic_Embeddings_for_Cross-Modal_Retrieval_CVPR_2021_paper.pdf) [code](https://github.com/naver-ai/pcme) | CVPR 2021 | NAVER AI Lab|
 |9| -| Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers |[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Miech_Thinking_Fast_and_Slow_Efficient_Text-to-Visual_Retrieval_With_Transformers_CVPR_2021_paper.pdf)| CVPR 2021 | DeepMind|
+|10|TAP| TAP: Text-Aware Pre-training for Text-VQA and Text-Caption| [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_TAP_Text-Aware_Pre-Training_for_Text-VQA_and_Text-Caption_CVPR_2021_paper.pdf)| CVPR 2021 | University of Rochester|
+|11| Causal Attention| Causal Attention for Vision-Language Tasks| [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Causal_Attention_for_Vision-Language_Tasks_CVPR_2021_paper.pdf) [code](https://github.com/yangxuntu/lxmertcatt) | CVPR 2021 | Nanyang Technological University,Singapore|
+|12| VirTex | VirTex: Learning Visual Representations from Textual Annotations | [paper] (https://openaccess.thecvf.com/content/CVPR2021/papers/Desai_VirTex_Learning_Visual_Representations_From_Textual_Annotations_CVPR_2021_paper.pdf) | CVPR 2021 | University of Michigan |
+|13| -| Predicting Human Scanpaths in Visual Question Answering | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Predicting_Human_Scanpaths_in_Visual_Question_Answering_CVPR_2021_paper.pdf) | CVPR 2021 | Univeristy of Minnesota | 
+|14| Kaleido-BERT| Kaleido-BERT: Vision-Language Pre-training on Fashion Domain | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhuge_Kaleido-BERT_Vision-Language_Pre-Training_on_Fashion_Domain_CVPR_2021_paper.pdf) [code](http://dpfan.net/Kaleido-BERT) | CVPR 2021 | Alibaba Group |
+|15| -| Seeing Out of tHe bOx:End-to-End Pre-training for Vision-Language Representation Learning | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_Seeing_Out_of_the_Box_End-to-End_Pre-Training_for_Vision-Language_Representation_CVPR_2021_paper.pdf) | CVPR 2021 | Univeristy of Science and Technology Beijing|
+|16| -| Learning by Planning: Language-Guided Global Image Editing|[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Shi_Learning_by_Planning_Language-Guided_Global_Image_Editing_CVPR_2021_paper.pdf) [code](https://github.com/jshi31/T2ONet) | CVPR 2021 | University of Rochester|
+|17| KRISP| KRISP: Integrating Implicit and Symbolic Knowledge for Open-Domain Knowledge-Based VQA | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Marino_KRISP_Integrating_Implicit_and_Symbolic_Knowledge_for_Open-Domain_Knowledge-Based_VQA_CVPR_2021_paper.pdf) [code](https://github.com/facebookresearch/krisp) |
+|18| -| Adaptive Cross-Modal Prototypes for Cross-Domain Visual-Language Retrieval | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Adaptive_Cross-Modal_Prototypes_for_Cross-Domain_Visual-Language_Retrieval_CVPR_2021_paper.pdf) | CVPR 2021 | Peking University|
 
 
 
-### Video\&Text
+
+### Video&Text
 |No.  |Model Name |Title |Links |Pub. | Organization| 
 |-----|:-----:|:-----:|:-----:|:--------:|:---:|
 |0| ClipBERT | Less Is More: ClipBERT for Video-and-Language Learning via Sparse Sampling  | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lei_Less_Is_More_ClipBERT_for_Video-and-Language_Learning_via_Sparse_Sampling_CVPR_2021_paper.pdf) [code](https://github.com/jayleicn/ClipBERT) | CVPR 2021 | UNC|
+|1| -| SUTD-TrafficQA: A Question Answering Benchmark and an Efficient Networkfor Video Reasoning over Traffic Events | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_SUTD-TrafficQA_A_Question_Answering_Benchmark_and_an_Efficient_Network_for_CVPR_2021_paper.pdf) [code](https://github.com/SUTDCV/SUTD-TrafficQA) | Singapore University of Technology and Design |
+|2| -| Open-book Video Captioning with Retrieve-Copy-Generate Network| [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Open-Book_Video_Captioning_With_Retrieve-Copy-Generate_Network_CVPR_2021_paper.pdf) | CVPR 2021 | institute of Automation, Chinese Academy of Sciences|
+|3| NExT-QA| NExT-QA: Next Phase of Question-Answering to Explaining Temporal Actions | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Xiao_NExT-QA_Next_Phase_of_Question-Answering_to_Explaining_Temporal_Actions_CVPR_2021_paper.pdf) [code](https://github.com/doc-doc/NExT-QA.git) | CVPR 2021 | National University of Singapore |
+|4|AGQA| AGQA: A Benchmark for Compositional Spatio-Temporal Reasoning| [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Grunde-McLaughlin_AGQA_A_Benchmark_for_Compositional_Spatio-Temporal_Reasoning_CVPR_2021_paper.pdf) | CVPR 2021 | Stanford University|
+|5| -| Bridge to Answer: Structure-aware Graph Interaction Network for Video Question Answering| [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Park_Bridge_To_Answer_Structure-Aware_Graph_Interaction_Network_for_Video_Question_CVPR_2021_paper.pdf) | CVPR 2021 |Yonsei University, Souch Korea|
+|6| -| Look Before you Speak: Visually Contextualized Utterances | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Seo_Look_Before_You_Speak_Visually_Contextualized_Utterances_CVPR_2021_paper.pdf) | CVPR 2021 | Google Research|
 
 ### 3D cross-modal retreival
 |No.  |Model Name |Title |Links |Pub. | Organization| 
@@ -77,10 +94,12 @@
 |1| |Understanding Object Dynamics for Interactive Image-to-Video Synthesis|[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Blattmann_Understanding_Object_Dynamics_for_Interactive_Image-to-Video_Synthesis_CVPR_2021_paper.pdf) [code](https://bit.ly/3cxfA2L) | CVPR 2021 | Heidelberg University|
 
 
-### Audo&Visual
+### Audio&Visual
 |No.  |Model Name |Title |Links |Pub. | Organization| 
 |-----|:-----:|:-----:|:-----:|:--------:|:---:|
 |0|-| Can audio-visual integration strengthen robustnessunder multimodal attacks?|[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Tian_Can_Audio-Visual_Integration_Strengthen_Robustness_Under_Multimodal_Attacks_CVPR_2021_paper.pdf)  | CVPR 2021 |University of Rochester|
+|1| -| Audio-Visual Instance Discrimination with Cross-Modal Agreement| [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Morgado_Audio-Visual_Instance_Discrimination_with_Cross-Modal_Agreement_CVPR_2021_paper.pdf) | CVPR 2021 | UC San Diego|
+|2| -|VISUALVOICE: Audio-Visual Speech Separation with Cross-Modal Consistency | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Gao_VisualVoice_Audio-Visual_Speech_Separation_With_Cross-Modal_Consistency_CVPR_2021_paper.pdf) [code](http://vision.cs.utexas.edu/projects/VisualVoice/) | CVPR 2021 | The University of Texas at Austin|
 
 ### Language-guided video actor segmentation
 |No.  |Model Name |Title |Links |Pub. | Organization| 
