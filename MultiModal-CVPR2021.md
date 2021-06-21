@@ -30,5 +30,5 @@
 ### video-audio-text 
 |No.  |Model Name |Title |Links |Pub. | Organization| 
 |-----|:-----:|:-----:|:-----:|:--------:|:---:|
-|0|| How2Sign: A Large-scale Multimodal Datasetfor Continuous American Sign Language|[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Duarte_How2Sign_A_Large-Scale_Multimodal_Dataset_for_Continuous_American_Sign_Language_CVPR_2021_paper.pdf) | CVPR 2021 | Universitat Polit`ecnica de Catalunya|
+|0|| How2Sign: A Large-scale Multimodal Datasetfor Continuous American Sign Language|[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Duarte_How2Sign_A_Large-Scale_Multimodal_Dataset_for_Continuous_American_Sign_Language_CVPR_2021_paper.pdf) [code](http://how2sign.github.io/) | CVPR 2021 | Universitat Polit`ecnica de Catalunya|
 
