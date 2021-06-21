@@ -54,13 +54,19 @@
 
 
 ### Video\&Text
+|No.  |Model Name |Title |Links |Pub. | Organization| 
+|-----|:-----:|:-----:|:-----:|:--------:|:---:|
 |0| ClipBERT | Less Is More: ClipBERT for Video-and-Language Learning via Sparse Sampling  | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lei_Less_Is_More_ClipBERT_for_Video-and-Language_Learning_via_Sparse_Sampling_CVPR_2021_paper.pdf) [code](https://github.com/jayleicn/ClipBERT) | CVPR 2021 | UNC|
 
 ### 3D cross-modal retreival
+|No.  |Model Name |Title |Links |Pub. | Organization| 
+|-----|:-----:|:-----:|:-----:|:--------:|:---:|
 |0| -| Cross-Modal Center Loss for 3D Cross-Modal Retrieval | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Jing_Cross-Modal_Center_Loss_for_3D_Cross-Modal_Retrieval_CVPR_2021_paper.pdf) | CVPR 2021 | The City University of New York|
 
 
 ### Video-to-Text Generation
+|No.  |Model Name |Title |Links |Pub. | Organization| 
+|-----|:-----:|:-----:|:-----:|:--------:|:---:|
 |0| Vx2Text |VX2TEXT: End-to-End Learning of Video-Based Text GenerationFrom Multimodal Inputs| [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lin_Vx2Text_End-to-End_Learning_of_Video-Based_Text_Generation_From_Multimodal_Inputs_CVPR_2021_paper.pdf) | CVPR 2021 | Columbia University |
 
 
