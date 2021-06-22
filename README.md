@@ -71,6 +71,10 @@ It also collects the related learning materials.
 ### Tutorials
 
 
+### Datasets
+[Multi-modal Datasets](datasets.md)
+
+
 ### Blogs
 [Lil's blogs](https://lilianweng.github.io/lil-log/)
 
