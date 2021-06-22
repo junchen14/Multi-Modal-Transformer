@@ -8,6 +8,7 @@ It also collects the related learning materials.
 
 ### Recent News
 
+> CVPR multi-modal papers are collected in [here]()
  
 > The code of VisualGPT is open sourced. They can be found  [here](image-language-transformer.md)
 
