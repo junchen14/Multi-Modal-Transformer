@@ -10,6 +10,7 @@
 |6| VATT| VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text | [paper](https://arxiv.org/pdf/2104.11178.pdf) | __arXiv__| Google | 22 April 2021|
 |7|Forzen in Time | Forzen in Time: A Joint Video and Image Encoder for End-to-End Retrieval| [paper](https://arxiv.org/pdf/2104.00650.pdf) [code](https://github.com/m-bain/frozen-in-time) | __arXiv__ | University of Oxford| 1 April 2021|
 |8|CLIP4CLIP| CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval | [paper](https://arxiv.org/pdf/2104.08860.pdf) [code](https://github.com/ArrowLuo/CLIP4Clip)  |   __arXiv__|  Southwest Jiaotong University | 18 April 2021 |
+|9|VIMPAC|VIMPAC: Video Pre-Training via Masked Token Prediction and Contrastive Learning| [paper](https://arxiv.org/pdf/2106.11250.pdf) [code](https://github.com/airsplay/vimpac) | __arXiv__ | UNC| 21 June 2021|
 
 
 # Vision & Language Naviagation
