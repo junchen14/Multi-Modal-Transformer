@@ -10,7 +10,7 @@
 |6| VATT| VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text | [paper](https://arxiv.org/pdf/2104.11178.pdf) | __arXiv__| Google | 22 April 2021|
 |7|Forzen in Time | Forzen in Time: A Joint Video and Image Encoder for End-to-End Retrieval| [paper](https://arxiv.org/pdf/2104.00650.pdf) [code](https://github.com/m-bain/frozen-in-time) | __arXiv__ | University of Oxford| 1 April 2021|
 |8|CLIP4CLIP| CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval | [paper](https://arxiv.org/pdf/2104.08860.pdf) [code](https://github.com/ArrowLuo/CLIP4Clip)  |   __arXiv__|  Southwest Jiaotong University | 18 April 2021 |
-|9|CLIP2Video| CLIP2Video: Mastering Video-Text Retrieval via Image CLIP | __arXiv__ | [paper](https://arxiv.org/pdf/2106.11097.pdf) [code](https://github.com/CryhanFang/CLIP2Video) | PCG, Tencent | 21 June, 2021 |
+|9|CLIP2Video| CLIP2Video: Mastering Video-Text Retrieval via Image CLIP |  [paper](https://arxiv.org/pdf/2106.11097.pdf) [code](https://github.com/CryhanFang/CLIP2Video) | __arXiv__| PCG, Tencent | 21 June, 2021 |
 
 
 
