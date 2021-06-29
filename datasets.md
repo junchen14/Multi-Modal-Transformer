@@ -12,6 +12,6 @@
 |[ActivityNet](http://activity-net.org/)|  100k | 100k | 20,000 | 849h| Youtube| 2017|      
 [YouCook2](http://youcook2.eecs.umich.edu/download) |14k| 14k| 2,000| 176h| Youtube| 2018|
 [Youtube8M](https://research.google.com/youtube8m/index.html) | ||||||
-[MSRVTT](https://github.com/crux82/msr-vtt-it) |  10k| 200k| 7,180| 40h| Youtube |2016|
+[MSRVTT](https://www.microsoft.com/en-us/research/publication/msr-vtt-a-large-video-description-dataset-for-bridging-video-and-language/) |  10k| 200k| 7,180| 40h| Youtube |2016|
 [HowTo100M](https://github.com/antoine77340/howto100m) |136M| 136M| 1.221M| 134,472h| Youtube| 2019|
 
