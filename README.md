@@ -89,4 +89,5 @@ It also collects the related learning materials.
 
 [accelerate](https://huggingface.co/docs/accelerate/) an easy API for mixed precision and any kind of distributed computing
 
+[hyperparameter search: optuna](https://optuna.org/)
 
