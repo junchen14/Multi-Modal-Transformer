@@ -71,7 +71,12 @@ It also collects the related learning materials.
 [Video-language](paper-review.md)
 
 
-### Tutorials
+### Tutorials and workshop
+[Cross-View and Cross-Modal Visual Geo-Localization: IEEE CVPR 2021 Tutorial](https://youtube.com/playlist?list=PLUgbVHjDharjTo9tk3xcPJHEkmi33ap-u)
+
+[From VQA to VLN: Recent Advances in Vision-and-Language Research: IEEE CVPR 2021 Tutorial](https://youtube.com/playlist?list=PLUgbVHjDhari645g1zmpo-MtOVap1FKxh)
+
+
 
 
 
