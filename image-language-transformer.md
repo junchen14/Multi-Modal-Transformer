@@ -6,7 +6,7 @@
 |2|Kaleido-BERT |Kaleido-BERT: Vision-Language Pre-training on Fashion Domain |[paper](https://arxiv.org/pdf/2103.16110.pdf) [code]( https://github.com/mczhuge/Kaleido-BERT/) |__CVPR 2021__|AliBaba Group|15 April 2021|
 |3|CLIPBERT |Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling | [paper](https://arxiv.org/pdf/2102.06183.pdf) [code](https://github.com/jayleicn/ClipBERT) |__CVPR 2021__| UNC | 11 Feb 2021|
 |4| -|Probabilistic Embeddings for Cross-Modal Retrieval| [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Chun_Probabilistic_Embeddings_for_Cross-Modal_Retrieval_CVPR_2021_paper.html) [github](https://github.com/naver-ai/pcme) | __CVPR 2021__ | NAVER Lab|  14 June 2021|
-
+|5| -| Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision | [paper](https://arxiv.org/pdf/2102.05918.pdf) | ICML 2021| Google | 11 June 2021|
 
 
 # Object Detection
