@@ -24,7 +24,7 @@
 |21|CoAtNet| CoAtNet: Marrying Convolution and Attentionfor All Data Sizes | [paper](https://arxiv.org/pdf/2106.04803.pdf) | __arXiv__ | Google Brain| 9 June, 2021|
 |22|Focal Transformer |Focal Self-attention for Local-Global Interactions in Vision Transformers  |[paper](https://arxiv.org/pdf/2107.00641.pdf) | Microsoft Research at Redmond | 1 Jul 2021|
 |23|BEIT| BEIT: BERT Pre-Training of Image Transformers| [paper](https://arxiv.org/pdf/2106.08254.pdf)|arXiv| Microsoft|15 Jun 2021|
-
+|24| ViT-G| Scaling Vision Transformers| [paper](https://arxiv.org/pdf/2106.04560.pdf) | arXiv | google brain | 8 Jun 2021| 
 
 
 # Viusal Relationship Detection
