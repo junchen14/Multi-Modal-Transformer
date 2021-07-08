@@ -81,18 +81,18 @@ It also collects the related learning materials.
 
 
 ### Datasets
-[Multi-modal Datasets](datasets.md)
+- [Multi-modal Datasets](datasets.md)
 
 
 ### Blogs
-[Lil's blogs](https://lilianweng.github.io/lil-log/)
+- [Lil's blogs](https://lilianweng.github.io/lil-log/)
 
 ### Tools
-[PyTorchVideo](https://pytorchvideo.org/) a deep learning library for video understanding research
+- [PyTorchVideo](https://pytorchvideo.org/) a deep learning library for video understanding research
 
-[horovod](https://github.com/horovod/horovod) a tool for multi-gpu parallel processing
+- [horovod](https://github.com/horovod/horovod) a tool for multi-gpu parallel processing
 
-[accelerate](https://huggingface.co/docs/accelerate/) an easy API for mixed precision and any kind of distributed computing
+- [accelerate](https://huggingface.co/docs/accelerate/) an easy API for mixed precision and any kind of distributed computing
 
-[hyperparameter search: optuna](https://optuna.org/)
+- [hyperparameter search: optuna](https://optuna.org/)
 
