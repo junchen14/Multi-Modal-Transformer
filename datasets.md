@@ -24,4 +24,5 @@
 |Dataset  |Videos |Duration | Source| Year | 
 |-----|:-----:|:--------:|:---:|:-------:|
 [Youtube8M](https://research.google.com/youtube8m/index.html) | 6M|350,000|YouTube| 2018|
-[FineAction](https://deeperaction.github.io/fineaction/) |16,732 | -| YouTube |  24 May 2019|
+[FineAction](https://deeperaction.github.io/fineaction/) |16,732 | -| YouTube |  24 May 2021|
+[VideoLT](https://videolt.github.io/) | 256,218 | 819,898 | YouTube|  6 May 2021| 
