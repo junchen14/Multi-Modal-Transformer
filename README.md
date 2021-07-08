@@ -3,7 +3,7 @@
 [AI Conference Deadlines](https://aideadlin.es/)
 
 
-We are a team from KAUST [Vision-CAIR group](https://cemse.kaust.edu.sa/vision-cair) and focus on the Vision Transformer and Multi-modal learning. 
+We are a team from KAUST [Vision-CAIR group](https://cemse.kaust.edu.sa/vision-cair) and focus on the Multi-modal representation learning. 
 
 This repo is to collect all the recent popular Transformer paper and code related to the domains of **Vision Transformer**, **NLP** and **multi-modal**, etc.  
 It also collects the related learning materials.
