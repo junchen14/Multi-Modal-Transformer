@@ -21,7 +21,10 @@
 |-----|:-----:|:-----:|:-----:|:--------:|:---:|:-------:|
 |1| -| Adaptive Cross-Modal Prototypes for Cross-Domain Visual-Language Retrieval | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Adaptive_Cross-Modal_Prototypes_for_Cross-Domain_Visual-Language_Retrieval_CVPR_2021_paper.pdf) | CVPR 2021 | Zhejiang University| 20 April 2021|
 
+
 # vision & language navigation
+|No.  |Model Name |Title |Links |Pub. | Organization| Release Time |
+|-----|:-----:|:-----:|:-----:|:--------:|:---:|:-------:|
 |1|Episodic Transformer | Episodic Transformer for Vision-and-Language Navigation| [paper](https://arxiv.org/pdf/2105.06453.pdf) | arXiv | Inria |  13 May 2021| 
 
 
