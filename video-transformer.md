@@ -9,7 +9,7 @@
 |5|VIMPAC|VIMPAC: Video Pre-Training via Masked Token Prediction and Contrastive Learning| [paper](https://arxiv.org/pdf/2106.11250.pdf) [code](https://github.com/airsplay/vimpac) | __arXiv__ | UNC| 21 June 2021|
 |6|-| Self-supervised Video Representation Learning by Context and Motion Decoupling | [paper](https://arxiv.org/pdf/2104.00862.pdf)| CVPR 2021 | Alibaba | 2 April 2021|
 |7|VideoLightFormer| VideoLightFormer: Lightweight Action Recognition using Transformers| [paper](https://arxiv.org/pdf/2107.00451.pdf) | arXiv| the university of shefield| 1 Jul 2021|
-
+|8|Video Swin Transformer| Video Swin Transformer| [paper](https://arxiv.org/pdf/2106.13230.pdf) | arXiv | MSRA | 24 Jun 2021|
 
 
 
