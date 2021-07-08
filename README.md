@@ -66,8 +66,8 @@ This repo is aimed to collect all the recent popular Transformer paper, codes an
 - [MLP for Image Classification](MLP-mixer.md)
 
 
-- Review Paper in multi-modal 
-[Video-language](paper-review.md)
+Review Paper in multi-modal  
+- [Video-language](paper-review.md)
 
 
 ### Tutorials and workshop
