@@ -46,35 +46,35 @@ It also collects the related learning materials.
 
 
 ### Topics (paper and code)
-#### [Image Transformer](image-transformer.md) 
+- [Image Transformer](image-transformer.md) 
 
 
-#### [Video Transformer](video-transformer.md)
+- [Video Transformer](video-transformer.md)
 
 
-#### [Video & Language & other modality Transformer](video-language-transformer.md)
+- [Video & Language & other modality Transformer](video-language-transformer.md)
 
 
-#### [Image & language & other modlity Trasformer](image-language-transformer.md)
+- [Image & language & other modlity Trasformer](image-language-transformer.md)
 
 
-#### [Natural Language Processing Transformer](NLP-transformer.md)
+- [Natural Language Processing Transformer](NLP-transformer.md)
 
 
-#### [Efficient Transformer](efficiency-transformer.md)
+- [Efficient Transformer](efficiency-transformer.md)
 
 
-#### [MLP for Image Classification](MLP-mixer.md)
+- [MLP for Image Classification](MLP-mixer.md)
 
 
-### Review Paper in multi-modal 
+- Review Paper in multi-modal 
 [Video-language](paper-review.md)
 
 
 ### Tutorials and workshop
-[Cross-View and Cross-Modal Visual Geo-Localization: IEEE CVPR 2021 Tutorial](https://youtube.com/playlist?list=PLUgbVHjDharjTo9tk3xcPJHEkmi33ap-u)
+- [Cross-View and Cross-Modal Visual Geo-Localization: IEEE CVPR 2021 Tutorial](https://youtube.com/playlist?list=PLUgbVHjDharjTo9tk3xcPJHEkmi33ap-u)
 
-[From VQA to VLN: Recent Advances in Vision-and-Language Research: IEEE CVPR 2021 Tutorial](https://youtube.com/playlist?list=PLUgbVHjDhari645g1zmpo-MtOVap1FKxh)
+- [From VQA to VLN: Recent Advances in Vision-and-Language Research: IEEE CVPR 2021 Tutorial](https://youtube.com/playlist?list=PLUgbVHjDhari645g1zmpo-MtOVap1FKxh)
 
 
 
