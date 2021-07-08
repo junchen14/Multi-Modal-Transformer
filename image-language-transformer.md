@@ -8,6 +8,8 @@
 |4| -|Probabilistic Embeddings for Cross-Modal Retrieval| [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Chun_Probabilistic_Embeddings_for_Cross-Modal_Retrieval_CVPR_2021_paper.html) [github](https://github.com/naver-ai/pcme) | __CVPR 2021__ | NAVER Lab|  14 June 2021|
 |5| -| Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision | [paper](https://arxiv.org/pdf/2102.05918.pdf) | ICML 2021| Google | 11 June 2021|
 |6|-|Probing Inter-modality: Visual Parsing with Self-Attention for Vision-Language Pre-training| [paper](https://arxiv.org/pdf/2106.13488.pdf) | arXiv| MSRA| 28 June 2021|
+|7| CogView| CogView: Mastering Text-to-Image Generation via Transformers | [paper](https://arxiv.org/pdf/2105.13290.pdf) [code](https://github.com/THUDM/CogView) | arXiv | TsingHua University | 28 May 2021| 
+
 
 
 
