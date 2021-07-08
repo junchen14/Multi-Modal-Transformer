@@ -11,6 +11,7 @@
 |7|VideoLightFormer| VideoLightFormer: Lightweight Action Recognition using Transformers| [paper](https://arxiv.org/pdf/2107.00451.pdf) | arXiv| the university of shefield| 1 Jul 2021|
 |8|Video Swin Transformer| Video Swin Transformer| [paper](https://arxiv.org/pdf/2106.13230.pdf) | arXiv | MSRA | 24 Jun 2021|
 |9| ST Swin| Long-Short Temporal Contrastive Learning of Video Transformers| [paper](https://arxiv.org/pdf/2106.09212.pdf) |arXiv|Facebook AI|  17 Jun 2021|
+|10|X-ViT|Space-time Mixing Attention for Video Transformer| [paper](https://arxiv.org/pdf/2106.05968.pdf) | arXiv|  Samsung AI Cambridge |11 Jun 2021| 
 
 
 
