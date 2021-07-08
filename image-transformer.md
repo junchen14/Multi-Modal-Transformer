@@ -22,6 +22,8 @@
 |19| Twins-SVT | Twins: Revisiting the Design of Spatial Attention in Vision Transformers  | [paper](https://arxiv.org/pdf/2104.13840.pdf) [code](https://github.com/Meituan-AutoML/Twins) |__arXiv__ | Meituan Inc | 28 Apr 2021|
 |20|LeViT| LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference| [paper](https://arxiv.org/pdf/2104.01136.pdf) [code](https://github.com/facebookresearch/LeViT) | __arXiv__ | Facebook | 6 May 2021 |
 |21|CoAtNet| CoAtNet: Marrying Convolution and Attentionfor All Data Sizes | [paper](https://arxiv.org/pdf/2106.04803.pdf) | __arXiv__ | Google Brain| 9 June, 2021|
+|22|Focal Transformer |Focal Self-attention for Local-Global Interactions in Vision Transformers  |[paper](https://arxiv.org/pdf/2107.00641.pdf) | Microsoft Research at Redmond | 1 Jul 2021|
+
 
 
 
