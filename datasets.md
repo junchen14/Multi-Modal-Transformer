@@ -18,6 +18,8 @@
 [YouCook2](http://youcook2.eecs.umich.edu/download) |[paper](http://youcook2.eecs.umich.edu/static/YouCookII/youcookii_readme.pdf) |14k| 14k| 2,000| 176h| Youtube| 2018|\
 |[LSMDC](https://sites.google.com/site/describingmovies/download) |[paper](https://arxiv.org/pdf/1605.03705.pdf) | 128k| 128k| 200| 150h| Movies |2017 |\
 [HowTo100M](https://github.com/antoine77340/howto100m) | [paper](https://arxiv.org/pdf/1906.03327.pdf)| 136M| 136M| 1.221M| 134,472h| Youtube| 2019|
+[VATEX](http://vatex.org/main/download.html) | [paper](https://arxiv.org/abs/1904.03493)| 41.3k| 826k| 41.3k| 114h38m| Youtube| 2019|
+[MSVD](http://www.cs.utexas.edu/users/ml/clamp/videoDescription/YouTubeClips.tar) | [paper](https://arxiv.org/abs/1904.03493)| 2k| 70k| 2k| 4h55m| Youtube| 2013|
 
 ## Video Dataset
 
