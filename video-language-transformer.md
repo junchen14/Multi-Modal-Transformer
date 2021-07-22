@@ -14,7 +14,8 @@
 |10| T2VLAD| T2VLAD: Global-Local Sequence Alignment for Text-Video Retrieval | [paper](https://arxiv.org/abs/2104.10054)  | CVPR 2021 | Baidu | 20 April 2021 | 
 |11|-| On Semantic Similarity in Video Retrieval | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wray_On_Semantic_Similarity_in_Video_Retrieval_CVPR_2021_paper.pdf)  [code](https://github.com/mwray/Semantic-Video-Retrieval) | CVPR 2021 |Univesity of Bristol | 21 June, 2021|
 |12| VLM|VLM: Task-agnostic Video-Language Model Pre-training for Video Understanding| [paper](https://arxiv.org/pdf/2105.09996.pdf) | arXiv | Facebook AI | 20 May 2021|
-|13| VideoBERT| VideoBERT: A Joint Model for Video and Language Representation Learning | CVPR 2019 | Google | Google Research | 11 Sep 2019 |
+|13| VideoBERT| VideoBERT: A Joint Model for Video and Language Representation Learning |[paper](https://arxiv.org/abs/1904.01766) | CVPR 2019 | Google Research | 11 Sep 2019 |
+|14| CBT | learning video representations using contrastive bidirectional transformer |[paper](https://arxiv.org/pdf/1906.05743.pdf)| arXiv | Google Research |  27 Sep 2019|
 
 
 # cross-domain video-retreival 
