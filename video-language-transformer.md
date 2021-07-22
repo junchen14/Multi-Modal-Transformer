@@ -14,12 +14,13 @@
 |10| T2VLAD| T2VLAD: Global-Local Sequence Alignment for Text-Video Retrieval | [paper](https://arxiv.org/abs/2104.10054)  | CVPR 2021 | Baidu | 20 April 2021 | 
 |11|-| On Semantic Similarity in Video Retrieval | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wray_On_Semantic_Similarity_in_Video_Retrieval_CVPR_2021_paper.pdf)  [code](https://github.com/mwray/Semantic-Video-Retrieval) | CVPR 2021 |Univesity of Bristol | 21 June, 2021|
 |12| VLM|VLM: Task-agnostic Video-Language Model Pre-training for Video Understanding| [paper](https://arxiv.org/pdf/2105.09996.pdf) | arXiv | Facebook AI | 20 May 2021|
+|13| VideoBERT| VideoBERT: A Joint Model for Video and Language Representation Learning | CVPR 2019 | Google | Google Research | 11 Sep 2019 |
 
 
 # cross-domain video-retreival 
 |No.  |Model Name |Title |Links |Pub. | Organization| Release Time |
 |-----|:-----:|:-----:|:-----:|:--------:|:---:|:-------:|
-|1| -| Adaptive Cross-Modal Prototypes for Cross-Domain Visual-Language Retrieval | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Adaptive_Cross-Modal_Prototypes_for_Cross-Domain_Visual-Language_Retrieval_CVPR_2021_paper.pdf) | CVPR 2021 | Zhejiang University| 20 April 2021|
+|1| -| Adaptive Cross-Modal Prototypes for Cross-Domain Visual-Language Retrieval | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Adaptive_Cross-Modal_Prototypes_for_Cross-Domain_Visual-Language_Retrieval_CVPR_2021_paper.pdf) | CVPR 2021 | Zhejiang University| 20 April 2021| 
 
 
 # vision & language navigation
