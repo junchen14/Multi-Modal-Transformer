@@ -19,7 +19,6 @@
 |15 | ActBERT | ActBERT: Learning Global-Local Video-Text Representations |[paper](https://arxiv.org/abs/2011.07231) |  Baidu Research | CVPR 2020 | 14 Nov 2020| 
 |16 | HERO |  HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training  |[paper](https://aclanthology.org/2020.emnlp-main.161.pdf) [code](https://github.com/linjieli222/HERO) | EMNLP 2020 | Microsoft Dynamics 365 AI Research | 29 Sep 2020 |
 | 17 | UniVL | UniVL: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation | [paper](https://arxiv.org/pdf/2002.06353.pdf) [code](https://github.com/microsoft/UniVL) |arXiv| MSRA| 15 Sep 2021|
-|18 | ViLT|  ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision | [paper](https://arxiv.org/pdf/2102.03334.pdf) [code](https://github.com/dandelin/ViLT) | ICML 2021 | NAVER lab|  10 Jun 2021 |
 
 
 # cross-domain video-retreival 
