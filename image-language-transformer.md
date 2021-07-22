@@ -10,7 +10,7 @@
 |6|-|Probing Inter-modality: Visual Parsing with Self-Attention for Vision-Language Pre-training| [paper](https://arxiv.org/pdf/2106.13488.pdf) | arXiv| MSRA| 28 June 2021|
 |7| CogView| CogView: Mastering Text-to-Image Generation via Transformers | [paper](https://arxiv.org/pdf/2105.13290.pdf) [code](https://github.com/THUDM/CogView) | arXiv | TsingHua University | 28 May 2021| 
 |8|ViLT| ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision| [paper](https://arxiv.org/pdf/2102.03334.pdf) [code](https://github.com/dandelin/vilt) | ICML 2021 | NAVER AI lab|  10 Jun 2021|
-
+|9| - |Unifying Vision-and-Language Tasks via Text Generation | [paper](https://arxiv.org/pdf/2102.02779.pdf) [code](https://github.com/j-min/VL-T5) | ICML 2021 | UNC | 23 May 2021|
 
 
 # Object Detection
