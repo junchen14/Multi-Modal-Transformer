@@ -16,6 +16,8 @@
 |12| VLM|VLM: Task-agnostic Video-Language Model Pre-training for Video Understanding| [paper](https://arxiv.org/pdf/2105.09996.pdf) | arXiv | Facebook AI | 20 May 2021|
 |13| VideoBERT| VideoBERT: A Joint Model for Video and Language Representation Learning |[paper](https://arxiv.org/abs/1904.01766) | CVPR 2019 | Google Research | 11 Sep 2019 |
 |14| CBT | learning video representations using contrastive bidirectional transformer |[paper](https://arxiv.org/pdf/1906.05743.pdf)| arXiv | Google Research |  27 Sep 2019|
+|15 | ActBERT | ActBERT: Learning Global-Local Video-Text Representations |[paper](https://arxiv.org/abs/2011.07231) |  Baidu Research | CVPR 2020 | 14 Nov 2020| 
+
 
 
 # cross-domain video-retreival 
