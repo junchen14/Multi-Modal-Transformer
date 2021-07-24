@@ -21,11 +21,21 @@
 [VATEX](http://vatex.org/main/download.html) | [paper](https://arxiv.org/abs/1904.03493)| 41.3k| 826k| 41.3k| 114h38m| Youtube| 2019| |
 [MSVD](http://www.cs.utexas.edu/users/ml/clamp/videoDescription/YouTubeClips.tar) | [paper](https://arxiv.org/abs/1904.03493)| 2k| 70k| 2k| 4h55m| Youtube| 2013| |
 [VATEX](https://eric-xw.github.io/vatex-website/download.html) | [paper](https://arxiv.org/abs/1904.03493)| 41.3k| 826k| 41.3k| 114h38m| Youtube| 2019| |
-[MSVD](https://www.cs.utexas.edu/users/ml/clamp/videoDescription/) | [paper]( https://www.cs.utexas.edu/users/ml/clamp/videoDescription/)| 2k| 70k| 2k| 4h55m| Youtube| 2011| |
 [MovieNet](http://movienet.site/) | [paper]( https://arxiv.org/abs/2007.10937)| 420k| 25k| 420k| /| home| 2020| |
 [MovieGraphs](http://moviegraphs.cs.toronto.edu/) | [paper]( http://moviegraphs.cs.toronto.edu/)| 7.6k| 70k| 51| 150h| home| 2018| |
 [QVHIGHLIGHTS](https://github.com/jayleicn/moment_detr) | [paper](https://arxiv.org/pdf/2107.09609.pdf) | 10.3k | 10.2k | 10.3k| / | Daily or Travel Vlog and news | 2021 | moment retreival and highlight detection via the natural language query | 
-
+[UCF101](https://www.crcv.ucf.edu/research/data-sets/ucf101/) | [paper]( chrome-extension://hlepcpeldoohbbaejkjjgpehelfnmamm/static/pdf/web/viewer.html?file=https%3A%2F%2Fwww.crcv.ucf.edu%2Fwp-content%2Fuploads%2F2019%2F03%2FUCF101_CRCV-TR-12-01.pdf) | 13.3k | / | 13.3k| / | Youtube | 2012 | |
+[HMDB51]( https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/#dataset) | [paper]( https://ieeexplore.ieee.org/document/6126543) | 7K | / | 7K| / | Youtube/Google | 2011 | |
+[Moments-in-Time]( http://moments.csail.mit.edu/) | [paper]( https://arxiv.org/abs/1801.03150) | 1M | / | 1M| / | Youtube | 2017 |  |
+[AVA]( https://github.com/cvdfoundation/ava-dataset) | [paper](https://arxiv.org/abs/1705.08421) | 57.6K | 300k | 57.6K| / | Youtube | 2017 |  |
+[Collective Activity Dataset]( http://vhosts.eecs.umich.edu/vision//activity-dataset.html) | [paper]( https://ieeexplore.ieee.org/document/5457461) | 44 | / | 44| / | shoot | 2009 |  |
+[HVU]( https://holistic-video-understanding.github.io/) | [paper]( https://arxiv.org/abs/1904.11451) | 57.2K | 9M | 57.2K| / | Youtube | 2019 |  |
+[Oops!]( https://github.com/DmZhukov/CrossTask) | [paper]( https://arxiv.org/abs/1911.11206) | 20K | / | 20K| / | Web | 2019 |  |
+[CrossTask]( https://github.com/DmZhukov/CrossTask) | [paper]( https://arxiv.org/pdf/1903.08225.pdf) | 4.7K | / | 4.7K| / | Youtube | 2019 | |
+[COIN]( https://coin-dataset.github.io/) | [paper]( https://arxiv.org/pdf/1903.08225.pdf) | 11.8K | / | 11.8K| / | Youtube | 2019 | |
+[Sports-1M]( https://cs.stanford.edu/people/karpathy/deepvideo/) | [paper]( chrome-extension://hlepcpeldoohbbaejkjjgpehelfnmamm/static/pdf/web/viewer.html?file=https%3A%2F%2Fcs.stanford.edu%2Fpeople%2Fkarpathy%2Fdeepvideo%2Fdeepvideo_cvpr2014.pdf) | 1.1M | / | 1.1M | / | Youtube | 2014 | |
+[20BN-SOMETHING-SOMETHING]( https://20bn.com/datasets/something-something) | [paper]( https://arxiv.org/abs/1706.04261) | 108K | / | 108K | / | Youtube | 2017 | |
+[DALY]( http://thoth.inrialpes.fr/daly/) | [paper]( https://arxiv.org/pdf/1605.05197.pdf) | 8.1K | / | 8.1K | / | Youtube | 2016 | |
 
 
 ## Video Dataset
