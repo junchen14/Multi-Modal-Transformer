@@ -24,7 +24,7 @@
 [MSVD](https://www.cs.utexas.edu/users/ml/clamp/videoDescription/) | [paper]( https://www.cs.utexas.edu/users/ml/clamp/videoDescription/)| 2k| 70k| 2k| 4h55m| Youtube| 2011| |
 [MovieNet](http://movienet.site/) | [paper]( https://arxiv.org/abs/2007.10937)| 420k| 25k| 420k| **| home| 2020| |
 [MovieGraphs](http://moviegraphs.cs.toronto.edu/) | [paper]( http://moviegraphs.cs.toronto.edu/)| 7.6k| 70k| 51| 150h| home| 2018| |
-[QVHIGHLIGHTS](https://github.com/jayleicn/moment_detr) | [paper](https://arxiv.org/pdf/2107.09609.pdf) | 10.3k | 10.2k | 10.3k| / | Daily or Travel Vlog and news | 2021 | | 
+[QVHIGHLIGHTS](https://github.com/jayleicn/moment_detr) | [paper](https://arxiv.org/pdf/2107.09609.pdf) | 10.3k | 10.2k | 10.3k| / | Daily or Travel Vlog and news | 2021 | moment retreival and highlight detection via the natural language query | 
 
 
 
