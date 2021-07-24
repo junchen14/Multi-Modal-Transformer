@@ -9,3 +9,4 @@
 |5|-| A Large-Scale Study on Unsupervised Spatiotemporal Representation Learning | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Feichtenhofer_A_Large-Scale_Study_on_Unsupervised_Spatiotemporal_Representation_Learning_CVPR_2021_paper.pdf) [code](https://github.com/facebookresearch/SlowFast) | CVPR 2021 | Facebook | 29 Apr 2021|
 |6| PixelTransformer| PixelTransformer: Sample Conditioned Signal Generation  |[paper](https://arxiv.org/abs/2103.15813) [code](https://shubhtuls.github.io/PixelTransformer/)| ICML 2021 | Facebook | 29 Mar 2021|
 |7| Perceiver | Perceiver: General Perception with Iterative Attention | [paper](https://arxiv.org/pdf/2103.03206.pdf) [code](https://github.com/lucidrains/perceiver-pytorch) | ICML 2021 | DeepMind | 23 Jun 2021|
+|8 | DOVE| DOVE: Learning Deformable 3D Objects by Watching Videos|[paper](https://arxiv.org/pdf/2107.10844.pdf) [code](https://dove3d.github.io/) | arXiv | Oxford | 22 Jul 2021 |
