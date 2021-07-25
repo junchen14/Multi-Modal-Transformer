@@ -6,7 +6,7 @@
 [coenceptual 12M](https://github.com/google-research-datasets/conceptual-12m)
 
 ## Video&language  Dataset
-|Dataset |paper| Clips |Captions |Videos |Duration | Source| Year |  Description| collection method|
+|Dataset |paper| Clips |Captions |Videos |Duration | Source| Year |  Tasks| collection method|
 |-----|:-----:|:-----:|:-----:|:-----:|:--------:|:---:|:-------:|:-------:|:-------:|
 |[Chalades](https://prior.allenai.org/projects/charades) | [paper](https://openreview.net/forum?id=rJW3ItWubH)|10K | 16K |10,000 | 82h|daily household videos|2016| action recoginition & captioning| AMT|\
 |[MSRVTT](https://www.microsoft.com/en-us/research/publication/msr-vtt-a-large-video-description-dataset-for-bridging-video-and-language/) |[paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/cvpr16.msr-vtt.tmei_-1.pdf) |  10k| 200k| 7,180| 40h| web-crawed videos with 257 queries |2016| retreival and captioning | AMT|\
