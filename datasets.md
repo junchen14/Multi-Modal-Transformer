@@ -23,7 +23,7 @@
 [VATEX](https://eric-xw.github.io/vatex-website/download.html) | [paper](https://arxiv.org/abs/1904.03493)| 41.3k| 826k| 41.3k| 114h38m| Youtube| 2019| |
 [MovieNet](http://movienet.site/) | [paper]( https://arxiv.org/abs/2007.10937)| 420k| 25k| 420k| /| home| 2020| |
 [MovieGraphs](http://moviegraphs.cs.toronto.edu/) | [paper]( http://moviegraphs.cs.toronto.edu/)| 7.6k| 70k| 51| 150h| home| 2018| |
-[QVHIGHLIGHTS](https://github.com/jayleicn/moment_detr) | [paper](https://arxiv.org/pdf/2107.09609.pdf) | 10.3k | 10.2k | 10.3k| / | Daily or Travel Vlog and news | 2021 | moment retreival and highlight detection via the natural language query | 
+[QVHIGHLIGHTS](https://github.com/jayleicn/moment_detr) | [paper](https://arxiv.org/pdf/2107.09609.pdf) | 10.3k | 10.2k | 10.3k| / | Daily or Travel Vlog and news | 2021 | moment retreival & highlight detection | 
 [UCF101](https://www.crcv.ucf.edu/research/data-sets/ucf101/) | [paper]( chrome-extension://hlepcpeldoohbbaejkjjgpehelfnmamm/static/pdf/web/viewer.html?file=https%3A%2F%2Fwww.crcv.ucf.edu%2Fwp-content%2Fuploads%2F2019%2F03%2FUCF101_CRCV-TR-12-01.pdf) | 13.3k | / | 13.3k| / | Youtube | 2012 | |
 [HMDB51]( https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/#dataset) | [paper]( https://ieeexplore.ieee.org/document/6126543) | 7K | / | 7K| / | Youtube/Google | 2011 | |
 [Moments-in-Time]( http://moments.csail.mit.edu/) | [paper]( https://arxiv.org/abs/1801.03150) | 1M | / | 1M| / | Youtube | 2017 |  |
