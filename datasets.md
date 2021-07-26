@@ -18,25 +18,31 @@
 [YouCook2](http://youcook2.eecs.umich.edu/download) |[paper](http://youcook2.eecs.umich.edu/static/YouCookII/youcookii_readme.pdf) |14k| 14k| 2,000| 176h| online cooking videos| 2018| retreival & captioning| well-trained native English speakers |\
 |[LSMDC](https://sites.google.com/site/describingmovies/download) |[paper](https://arxiv.org/pdf/1605.03705.pdf) | 128k| 128k| 200| 150h| comination of M-VAD and MPII-MD datasets |2017 | captioning| /|\
 [HowTo100M](https://github.com/antoine77340/howto100m) | [paper](https://arxiv.org/pdf/1906.03327.pdf)| 136M| 136M| 1.221M| 134,472h| large-scaled online videos| 2019| action step localization & retreival | ASR|
-[VATEX](http://vatex.org/main/download.html) | [paper](https://arxiv.org/abs/1904.03493)| 41.3k| 826k| 41.3k| 114h38m| Youtube| 2019| |
-[MSVD](http://www.cs.utexas.edu/users/ml/clamp/videoDescription/YouTubeClips.tar) | [paper](https://arxiv.org/abs/1904.03493)| 2k| 70k| 2k| 4h55m| Youtube| 2013| |
-[VATEX](https://eric-xw.github.io/vatex-website/download.html) | [paper](https://arxiv.org/abs/1904.03493)| 41.3k| 826k| 41.3k| 114h38m| Youtube| 2019| |
-[MovieNet](http://movienet.site/) | [paper]( https://arxiv.org/abs/2007.10937)| 420k| 25k| 420k| /| home| 2020| |
-[MovieGraphs](http://moviegraphs.cs.toronto.edu/) | [paper]( http://moviegraphs.cs.toronto.edu/)| 7.6k| 70k| 51| 150h| home| 2018| |
-[QVHIGHLIGHTS](https://github.com/jayleicn/moment_detr) | [paper](https://arxiv.org/pdf/2107.09609.pdf) | 10.3k | 10.2k | 10.3k| / | Daily or Travel Vlog and news | 2021 | moment retreival & highlight detection | 
-[UCF101](https://www.crcv.ucf.edu/research/data-sets/ucf101/) | [paper]( chrome-extension://hlepcpeldoohbbaejkjjgpehelfnmamm/static/pdf/web/viewer.html?file=https%3A%2F%2Fwww.crcv.ucf.edu%2Fwp-content%2Fuploads%2F2019%2F03%2FUCF101_CRCV-TR-12-01.pdf) | 13.3k | / | 13.3k| / | Youtube | 2012 | |
-[HMDB51]( https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/#dataset) | [paper]( https://ieeexplore.ieee.org/document/6126543) | 7K | / | 7K| / | Youtube/Google | 2011 | |
-[Moments-in-Time]( http://moments.csail.mit.edu/) | [paper]( https://arxiv.org/abs/1801.03150) | 1M | / | 1M| / | Youtube | 2017 |  |
-[AVA]( https://github.com/cvdfoundation/ava-dataset) | [paper](https://arxiv.org/abs/1705.08421) | 57.6K | 300k | 57.6K| / | Youtube | 2017 |  |
-[Collective Activity Dataset]( http://vhosts.eecs.umich.edu/vision//activity-dataset.html) | [paper]( https://ieeexplore.ieee.org/document/5457461) | 44 | / | 44| / | shoot | 2009 |  |
-[HVU]( https://holistic-video-understanding.github.io/) | [paper]( https://arxiv.org/abs/1904.11451) | 57.2K | 9M | 57.2K| / | Youtube | 2019 |  |
-[Oops!]( https://github.com/DmZhukov/CrossTask) | [paper]( https://arxiv.org/abs/1911.11206) | 20K | / | 20K| / | Web | 2019 |  |
-[CrossTask]( https://github.com/DmZhukov/CrossTask) | [paper]( https://arxiv.org/pdf/1903.08225.pdf) | 4.7K | / | 4.7K| / | Youtube | 2019 | |
-[COIN]( https://coin-dataset.github.io/) | [paper]( https://arxiv.org/pdf/1903.08225.pdf) | 11.8K | / | 11.8K| / | Youtube | 2019 | |
-[Sports-1M]( https://cs.stanford.edu/people/karpathy/deepvideo/) | [paper]( chrome-extension://hlepcpeldoohbbaejkjjgpehelfnmamm/static/pdf/web/viewer.html?file=https%3A%2F%2Fcs.stanford.edu%2Fpeople%2Fkarpathy%2Fdeepvideo%2Fdeepvideo_cvpr2014.pdf) | 1.1M | / | 1.1M | / | Youtube | 2014 | |
-[20BN-SOMETHING-SOMETHING]( https://20bn.com/datasets/something-something) | [paper]( https://arxiv.org/abs/1706.04261) | 108K | / | 108K | / | Youtube | 2017 | |
-[DALY]( http://thoth.inrialpes.fr/daly/) | [paper]( https://arxiv.org/pdf/1605.05197.pdf) | 8.1K | / | 8.1K | / | Youtube | 2016 | |
-
+[Kinetics-700](https://deepmind.com/research/open-source/kinetics) |[paper](https://arxiv.org/abs/1907.06987)| 650K| /| 650K| /| activities in the kitchen |2019| action recoginition| |\
+[AVA-Kinetics](https://deepmind.com/research/open-source/kinetics) |[paper](https://arxiv.org/abs/2005.00214) | 230K| /| 230K| /| daily human behavior activities| 2020| action recoginition| |\
+[HACS]( http://hacs.csail.mit.edu/) |[paper]( https://arxiv.org/abs/1712.09374) | 1.5M| /| 504K| /| daily human behavior activities| 2019| action recoginition&captioning| /|\
+[Tiny-Virat]( https://github.com/UgurDemir/Tiny-VIRAT) |[paper]( https://arxiv.org/abs/2007.07355) |  13K| /| 13K| /| realistic and extracted from surveil-lance videos |2020| recognizing tiny actions in videos| /|\
+[Action Genome]() |[paper]( https://arxiv.org/abs/1912.06992) | 234K| /| 234K| /| based on Charades dataset| 2020| action recoginition& representations encoding eventpartonomies| /|\
+[SoccerNet]( https://silviogiancola.github.io/SoccerNet) |[paper]( https://arxiv.org/pdf/1804.04527.pdf) | 650K| 764h| 650K| /| European Football League video| 2018| event classification in football game video| /|\
+[ActivityNet Entities]( http://t.cn/EfePohM) |[paper]( https://arxiv.org/abs/1812.06587) | 650K| /| 650K| /| based on ActivityNet dataset| 2018| video understanding| /|\
+[VidSitu]( https://vidsitu.org/) |[paper]( https://arxiv.org/abs/2104.00990) | 136K| /| 29K| /| Web movies | 2021| understanding and rep-resenting related salient events in a video| /|\
+[VATEX]( https://eric-xw.github.io/vatex-website/) | [paper](https://arxiv.org/abs/1904.03493)| 41.3k| 826k| 41.3k| 114h38m| human behavior video from YouTube| 2019| action recoginition&captioning| /|\
+[MSVD]( https://www.cs.utexas.edu/users/ml/clamp/videoDescription/) | [paper]()| 2k| 70k| 2k| 4h55m| crowdsourcing| 2011| video captioning| /|\
+[MovieNet](http://movienet.site/) | [paper]( https://arxiv.org/abs/2007.10937)| 420k| 25k| 420k| /| Web Movies| 2020| understand a story-based long video withartistic styles| /|\
+[MovieGraphs](http://moviegraphs.cs.toronto.edu/) | [paper]( http://moviegraphs.cs.toronto.edu/)| 7.6k| 70k| 51| 150h| Web Movies| 2018| query videosand text with graphs| /|\
+[QVHIGHLIGHTS](https://github.com/jayleicn/moment_detr) | [paper](https://arxiv.org/pdf/2107.09609.pdf) | 10.3k| 10.2k| 10.3k| / | daily or travel vlog and news| 2021| moment retreival & highlight detection| /|\
+[UCF101](https://www.crcv.ucf.edu/research/data-sets/ucf101/) | [paper]( https://www.crcv.ucf.edu/wp-content/uploads/2019/03/UCF101_CRCV-TR-12-01.pdf) | 13.3k| 1600m| 13.3k| / | user-uploaded videos| 2012| action recoginition| /|\
+[HMDB51]( https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/#dataset) | [paper]( http://serre-lab.clps.brown.edu/wp-content/uploads/2012/08/Kuehne_etal_ICCV2011.pdf) | 7K| /| 7K| /| action videos from Youtube/Google| 2011| action recoginition&captioning| /|\
+[Moments-in-Time]( http://moments.csail.mit.edu/) | [paper]( https://arxiv.org/abs/1801.03150) | 1M| /| 1M| /| edited videos from YouTube, Flickr, Vine, Metacafe and other sources| 2017| action&event recognition| /|\
+[AVA]( https://github.com/cvdfoundation/ava-dataset) | [paper](https://arxiv.org/abs/1705.08421) | 57.6K| 300k| 57.6K| / | Web Movies| 2017| atomic visual actions| /|\
+[HVU]( https://holistic-video-understanding.github.io/) | [paper]( https://arxiv.org/abs/1904.11451) | 57.2K| 9M| 57.2K| / | Youtube| 2020| video classification&caption&clustering| /|\
+[Oops!]( https://github.com/DmZhukov/CrossTask) | [paper]( https://arxiv.org/abs/1911.11206) | 20K| / | 20K| / | in-the-wild videos of unintentional action| 2019| action recoginition| /|\
+[CrossTask]( https://github.com/DmZhukov/CrossTask) | [paper]( https://arxiv.org/pdf/1903.08225.pdf) | 4.7K| / | 4.7K| /| instructional videos from Youtube| 2019| video classification| /|\
+[COIN]( https://coin-dataset.github.io/) | [paper]( https://arxiv.org/pdf/1903.02874.pdf) | 11.8K | /| 11.8K| /| instructional videos from YouTube| 2019| action recoginition| /|\
+[Sports-1M]( https://cs.stanford.edu/people/karpathy/deepvideo/) | [paper]( http://cs.stanford.edu/people/karpathy/deepvideo/deepvideo_cvpr2014.pdf) | 1.1M| /| 1.1M| /| sports video fromYoutube| 2014| video classification| /|\
+[20BN-SOMETHING-SOMETHING]( https://20bn.com/datasets/something-something) | [paper]( https://arxiv.org/abs/1706.04261) | 220K| 318K| 220K| /| show humans performing pre-defined basic actions with everyday objects| 2017| action recoginition| /|\
+[DALY]( http://thoth.inrialpes.fr/daly/) | [paper]( https://arxiv.org/pdf/1605.05197.pdf) | 8.1K| / | 8.1K| /| Daily Action Localization in YouTube| 2016| video classification| /|\
+[FineGym]( https://sdolivia.github.io/FineGym/) | [paper]( https://arxiv.org/abs/2004.06704) | 8.1K| / | 8.1K| /| sports videos of professional athletes| 2020| video action recognition&detection&generation| /|\
 
 ## Video Dataset
 
