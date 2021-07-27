@@ -18,8 +18,8 @@
 [YouCook2](http://youcook2.eecs.umich.edu/download) |[paper](http://youcook2.eecs.umich.edu/static/YouCookII/youcookii_readme.pdf) |14k| 14k| 2,000| 176h| online cooking videos| 2018| retreival & captioning| well-trained native English speakers |\
 |[LSMDC](https://sites.google.com/site/describingmovies/download) |[paper](https://arxiv.org/pdf/1605.03705.pdf) | 128k| 128k| 200| 150h| comination of M-VAD and MPII-MD datasets |2017 | captioning| /|\
 [HowTo100M](https://github.com/antoine77340/howto100m) | [paper](https://arxiv.org/pdf/1906.03327.pdf)| 136M| 136M| 1.221M| 134,472h| large-scaled online videos| 2019| action step localization & retreival | ASR|
-[Kinetics-700](https://deepmind.com/research/open-source/kinetics) |[paper](https://arxiv.org/abs/1907.06987)| 650K| /| 650K| /| an extension of kinetics-700 dataset |2019| action recoginition| \|\
-[AVA-Kinetics](https://deepmind.com/research/open-source/kinetics) |[paper](https://arxiv.org/abs/2005.00214) | 230K| /| 230K| /| combines the annotation style of AVA and kinetics dataset| 2020| action recoginition|\ |\
+[Kinetics-700](https://deepmind.com/research/open-source/kinetics) |[paper](https://arxiv.org/abs/1907.06987)| 650K| /| 650K| /| an extension of kinetics-700 dataset |2019| action recoginition| /|\
+[AVA-Kinetics](https://deepmind.com/research/open-source/kinetics) |[paper](https://arxiv.org/abs/2005.00214) | 230K| /| 230K| /| combines the annotation style of AVA and kinetics dataset| 2020| action recoginition|/ |\
 [HACS]( http://hacs.csail.mit.edu/) |[paper]( https://arxiv.org/abs/1712.09374) | 1.5M| /| 504K| /| large scale human action localization dataset| 2019| action recoginition&captioning| crowdsourcing|\
 [Tiny-Virat]( https://github.com/UgurDemir/Tiny-VIRAT) |[paper]( https://arxiv.org/abs/2007.07355) |  13K| /| 13K| /| low-resolution action recognition dataset (surveillance videos) |2020| action recognition| /|\
 Action Genome |[paper]( https://arxiv.org/abs/1912.06992) | 234K| /| 234K| /| video scene graph| 2020| action recoginition& representations encoding eventpartonomies| crowdsourcing|\
