@@ -54,6 +54,6 @@ Action Genome |[paper]( https://arxiv.org/abs/1912.06992) | 234K| /| 234K| /| vi
 
 
 ## dataset collection tools
-[voxel](https://voxel51.com/)
-[amazon turkers](https://www.mturk.com/)
+[voxel](https://voxel51.com/)  
+[amazon turkers](https://www.mturk.com/)  
 [shaip](https://www.shaip.com/)
