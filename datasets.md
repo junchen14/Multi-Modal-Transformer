@@ -38,8 +38,7 @@ Action Genome |[paper]( https://arxiv.org/abs/1912.06992) | 234K| /| 234K| /| vi
 [HVU]( https://holistic-video-understanding.github.io/) | [paper](https://arxiv.org/abs/1904.11451) | 57.2K| 9M| 57.2K| / | Youtube| 2020| multi-label and multi-task video understanding| semi-automatic crowdsourcing strategy |\
 [Oops!]( https://github.com/DmZhukov/CrossTask) | [paper]( https://arxiv.org/abs/1911.11206) | 20K| / | 20K| / | in-the-wild videos of unintentional action| 2019| unintentional action recoginition| AMT|\
 [CrossTask]( https://github.com/DmZhukov/CrossTask) | [paper]( https://arxiv.org/pdf/1903.08225.pdf) | 4.7K| / | 4.7K| /| weakly supervising learning from instructional videos| 2019| video classification| crowdsourcing|\
-[COIN]( https://coin-dataset.github.io/) | [paper]( https://arxiv.org/pdf/1903.02874.pdf) | 11.8K | /| 11.8K| /| Comprehensive instructional
-video analysis | 2019| step localization & action recoginition| crowdsourcing|\
+[COIN]( https://coin-dataset.github.io/) | [paper]( https://arxiv.org/pdf/1903.02874.pdf) | 11.8K | /| 11.8K| /| Comprehensive instructional video analysis | 2019| step localization & action recoginition| crowdsourcing|\
 [Sports-1M]( https://cs.stanford.edu/people/karpathy/deepvideo/) | [paper]( http://cs.stanford.edu/people/karpathy/deepvideo/deepvideo_cvpr2014.pdf) | 1.1M| /| 1.1M| /| sports video from Youtube | 2014| video classification| crowdsourcing labed with taxonomy|\
 [20BN-SOMETHING-SOMETHING]( https://20bn.com/datasets/something-something) | [paper]( https://arxiv.org/abs/1706.04261) | 220K| 318K| 220K| /| show humans performing pre-defined basic actions with everyday objects| 2017| action recoginition| AMT|\
 [DALY]( http://thoth.inrialpes.fr/daly/) | [paper]( https://arxiv.org/pdf/1605.05197.pdf) | 8.1K| / | 8.1K| /| Daily Action Localization in YouTube| 2016| video classification| crowdsourcing|\
