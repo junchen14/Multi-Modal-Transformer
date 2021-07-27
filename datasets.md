@@ -51,3 +51,9 @@ Action Genome |[paper]( https://arxiv.org/abs/1912.06992) | 234K| /| 234K| /| vi
 [Youtube8M](https://research.google.com/youtube8m/index.html) | 6M|350,000|YouTube| 2018|
 [FineAction](https://deeperaction.github.io/fineaction/) |16,732 | -| YouTube |  24 May 2021|
 [VideoLT](https://videolt.github.io/) | 256,218 | 819,898 | YouTube|  6 May 2021| 
+
+
+## dataset collection tools
+[voxel](https://voxel51.com/)
+[amazon turkers](https://www.mturk.com/)
+[shaip](https://www.shaip.com/)
