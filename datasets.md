@@ -43,6 +43,12 @@ Action Genome |[paper]( https://arxiv.org/abs/1912.06992) | 234K| /| 234K| /| vi
 [20BN-SOMETHING-SOMETHING]( https://20bn.com/datasets/something-something) | [paper]( https://arxiv.org/abs/1706.04261) | 220K| 318K| 220K| /| show humans performing pre-defined basic actions with everyday objects| 2017| action recoginition| AMT|\
 [DALY]( http://thoth.inrialpes.fr/daly/) | [paper]( https://arxiv.org/pdf/1605.05197.pdf) | 8.1K| / | 8.1K| /| Daily Action Localization in YouTube| 2016| video classification| crowdsourcing|\
 [FineGym]( https://sdolivia.github.io/FineGym/) | [paper]( https://arxiv.org/abs/2004.06704) | 8.1K| / | 8.1K| /|  gymnastic videos with temporal actions and sub-actions| 2020| video action recognition&detection&generation| crowdsourcing|\
+[MultiSports]( https://deeperaction.github.io/multisports/) | [paper]( https://arxiv.org/abs/2105.07404) | 3.2K| / | 3.2K| /| competition videos with high resolution held in recent years| 2021| spatio-temporal action detection| /|\
+[“Wildlife Action”]() | [paper]( https://www.crcv.ucf.edu/wp-content/uploads/2018/11/Weining_L_Report.pdf) | 10.6K| / | 10.6K| /| downloaded from YouTube| 2020| animal action recognition| YouTube’s Data API|\
+[“Action Recogniation of Large Animals”]() | [paper]( https://ieeexplore.ieee.org/document/8634672) | /| / | /| /| downloaded from YouTube| 2018| animal action recognition| YouTube’s Data API|\
+[“First-Person Animal Action”]() | [paper]( http://robotics.ait.kyushu-u.ac.jp/~yumi/db/papers/2014_ICPR_Final.pdf) | /| / | /| /| collected by a dog wearing a GoPro size camera| 2014| first-person animal activity recogniation| /|\
+[AnimalWeb]( https://vcla.stat.ucla.edu/people/zhangzhang-si/HiT/exp5.html) | [paper]( https://arxiv.org/pdf/1909.04951.pdf) | /| / | /| /| collected by a dog wearing a GoPro size camera| 2014| first-person animal activity recogniation| /|\
+
 
 ## Video Dataset
 
