@@ -12,7 +12,9 @@
 |8|ViLT| ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision| [paper](https://arxiv.org/pdf/2102.03334.pdf) [code](https://github.com/dandelin/vilt) | ICML 2021 | NAVER AI lab|  10 Jun 2021| 
 |9| - |Unifying Vision-and-Language Tasks via Text Generation | [paper](https://arxiv.org/pdf/2102.02779.pdf) [code](https://github.com/j-min/VL-T5) | ICML 2021 | UNC | 23 May 2021|
 |10| Pixel-BERT | Pixel-BERT: Aligning Image Pixels with Text by Deep Multi-Modal Transformers | [paper](https://arxiv.org/pdf/2004.00849.pdf) | arXiv | Univesity of Science and Technology Beijing |  22 Jun 2020 |
-|11| -| How Much Can CLIP Benefit Vision-and-Language Tasks?|[paper](https://arxiv.org/pdf/2107.06383.pdf）| arXiv| UCB | 13 Jul 2021|
+|11| -| How Much Can CLIP Benefit Vision-and-Language Tasks?| [paper](https://arxiv.org/pdf/2107.06383.pdf)| arXiv| UCB | 13 Jul 2021|
+
+
 # Object Detection
 
 |No.  |Model Name |Title |Links |Pub. | Organization| Release Time | 
