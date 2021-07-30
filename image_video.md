@@ -1,4 +1,0 @@
-# image and video modality
-
-
-
