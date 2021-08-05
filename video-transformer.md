@@ -13,5 +13,4 @@
 |9| ST Swin| Long-Short Temporal Contrastive Learning of Video Transformers| [paper](https://arxiv.org/pdf/2106.09212.pdf) |arXiv|Facebook AI|  17 Jun 2021|
 |10|X-ViT|Space-time Mixing Attention for Video Transformer| [paper](https://arxiv.org/pdf/2106.05968.pdf) | arXiv|  Samsung AI Cambridge |11 Jun 2021| 
 |11| OCVT | Generative Video Transformer: Can Objects be the Words? | [paper](https://arxiv.org/abs/2107.09240) | ICML 2021 |Rutgers University | 20 Jul 2021|
-
-
+|12|-|An Image is Worth 16x16 Words, What is a Video Worth?| [paper](https://arxiv.org/pdf/2103.13915.pdf) | arXiv | Alibaba |27 May 2021|
