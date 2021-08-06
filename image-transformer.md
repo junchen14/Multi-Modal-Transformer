@@ -26,6 +26,7 @@
 |23|BEIT| BEIT: BERT Pre-Training of Image Transformers| [paper](https://arxiv.org/pdf/2106.08254.pdf)|arXiv| Microsoft|15 Jun 2021|
 |24| ViT-G| Scaling Vision Transformers| [paper](https://arxiv.org/pdf/2106.04560.pdf) | arXiv | google brain | 8 Jun 2021| 
 |25| -| Efficient Training of Visual Transformers with Small-Size Datasets | [paper](https://arxiv.org/pdf/2106.03746.pdf) | arXiv |TFBK| 7 Jun 2021|
+|26|PS-ViT | Vision Transformer with Progressive Sampling | [paper](https://arxiv.org/pdf/2108.01684.pdf) [code](https://github.com/yuexy/PS-ViT) | arXiv | Centre for Perceptual and Interactive Intelligence| 3 Aug 2021|
 
 # Viusal Relationship Detection
 |No.  |Model Name |Title |Links |Pub. | Organization| Release Time | 
