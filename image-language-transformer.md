@@ -14,7 +14,7 @@
 |10| Pixel-BERT | Pixel-BERT: Aligning Image Pixels with Text by Deep Multi-Modal Transformers | [paper](https://arxiv.org/pdf/2004.00849.pdf) | arXiv | Univesity of Science and Technology Beijing |  22 Jun 2020 |
 |11| -| How Much Can CLIP Benefit Vision-and-Language Tasks?| [paper](https://arxiv.org/pdf/2107.06383.pdf)| arXiv| UCB | 13 Jul 2021|
 |12| LXMERT |LXMERT: Learning Cross-Modality Encoder Representations from Transformers| [paper](https://arxiv.org/abs/1908.07490) [code](https://github.com/airsplay/lxmert)| EMNLP 2019| UNC Chapel Hill | 3 Dec 2019|
-|13| ViLBERT | VilBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks| [paper](https://arxiv.org/abs/1908.02265) [code](https://github.com/jiasenlu/vilbert_beta)| NeurIPS 2019| 
+|13| ViLBERT | VilBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks| [paper](https://arxiv.org/abs/1908.02265) [code](https://github.com/jiasenlu/vilbert_beta)| NeurIPS 2019| Georgia Institute of Technology | 6 Aug 2019|
 
 
 
