@@ -1,8 +1,5 @@
 # Reading list in Transformer
 
-[AI Conference Deadlines](https://aideadlin.es/)
-
-
 We are a team from KAUST [Vision-CAIR group](https://cemse.kaust.edu.sa/vision-cair) and focus on the Multi-modal representation learning. 
 
 This repo is aimed to collect all the recent popular Transformer paper, codes and learning resources with respect to the domains of **Vision Transformer**, **NLP** and **multi-modal**, etc. 
@@ -96,4 +93,6 @@ Review Paper in multi-modal
 - [accelerate](https://huggingface.co/docs/accelerate/) an easy API for mixed precision and any kind of distributed computing
 
 - [hyperparameter search: optuna](https://optuna.org/)
+
+- [AI Conference Deadlines](https://aideadlin.es/)
 
