@@ -15,6 +15,20 @@
 |11| -| How Much Can CLIP Benefit Vision-and-Language Tasks?| [paper](https://arxiv.org/pdf/2107.06383.pdf)| arXiv| UCB | 13 Jul 2021|
 |12| LXMERT |LXMERT: Learning Cross-Modality Encoder Representations from Transformers| [paper](https://arxiv.org/abs/1908.07490) [code](https://github.com/airsplay/lxmert)| EMNLP 2019| UNC Chapel Hill | 3 Dec 2019|
 |13| ViLBERT | VilBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks| [paper](https://arxiv.org/abs/1908.02265) [code](https://github.com/jiasenlu/vilbert_beta)| NeurIPS 2019| Georgia Institute of Technology | 6 Aug 2019|
+|14| ImageBERT | ImageBERT: Cross-modal Pre-training with Large-scale Weak-supervised Image-Text Data | [paper](https://arxiv.org/abs/2001.07966) | arXiv | Bing, Microsoft|23 Jan 2020|
+|15| Unicoder-VL | Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training | [paper](https://arxiv.org/pdf/1908.06066v3.pdf) | AAAI 2020| MSRA | 2 Dec 2019|
+|16| VLP | Unified Vision-Language Pre-Training for Image Captioning and VQA | [paper](https://arxiv.org/pdf/1909.11059.pdf) [code](https://github.com/LuoweiZhou/VLP) | AAAI 2020| University of Michigan | 4 Dec 2019|
+|17| XGPT |XGPT: Cross-modal Generative Pre-Training for Image Captioning |[paper](https://arxiv.org/pdf/2003.01473.pdf) | arXiv| Peking University | 4 Mar 2020|
+|18| 12-IN-1 | 12-in-1: Multi-Task Vision and Language Representation Learning | [paper](https://arxiv.org/pdf/1912.02315.pdf) [code](https://github.com/facebookresearch/vilbert-multi-task) | CVPR 2020 | Facebook | 5 Dec 2019|
+|19| FashionBERT | FashionBERT: Text and Image Matching with Adaptive Loss for Cross-modal Retrieval | [paper](https://arxiv.org/abs/2005.09801) [code](20 May 2020)| SIGIR | Alibaba | 20 May 2020|
+|20| UNITER | UNITER: UNiversal Image-TExt Representation Learning | [paper](https://arxiv.org/abs/1909.11740) [code](https://github.com/ChenRocks/UNITER) | ECCV 2020 | Microsoft Dynamics 365 AI Research| 25 Sep 2019|
+|21| VisDial-BERT | Large-scale Pretraining for Visual Dialog: A Simple State-of-the-Art Baseline | [paper](https://arxiv.org/abs/1912.02379) [code](https://github.com/vmurahari3/visdial-bert) | ECCV 2020 | 1Georgia Institute of Technology | 31 Mar 2020 |
+|22| OSCAR | Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks | [paper](https://arxiv.org/abs/2004.06165) [code](https://github.com/microsoft/Oscar) | ECCV 2020| Microsoft |13 Apr 2020|
+
+
+
+
+ 
 
 
 
