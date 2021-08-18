@@ -20,6 +20,11 @@
 |16 | HERO |  HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training  |[paper](https://aclanthology.org/2020.emnlp-main.161.pdf) [code](https://github.com/linjieli222/HERO) | EMNLP 2020 | Microsoft Dynamics 365 AI Research | 29 Sep 2020 |
 | 17 | UniVL | UniVL: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation | [paper](https://arxiv.org/pdf/2002.06353.pdf) [code](https://github.com/microsoft/UniVL) |arXiv| MSRA| 15 Sep 2021|
 |18 |G-TAD| Boundary-sensitive Pre-training for Temporal Localization in Videos |[paper](https://arxiv.org/pdf/2011.10830.pdf) | ICCV 2021 | Samsung AI Centre Cambridge, UK | 26 Mar 2021 |
+|19 | UniVL |UniVL: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation| [paper](https://arxiv.org/abs/2002.06353) [code](https://github.com/microsoft/UniVL) | arXiv | Microsoft | 15 Feb 2020|
+|20| ActBERT |ActBERT: Learning Global-Local Video-Text Representations | [paper](https://arxiv.org/pdf/2011.07231.pdf) | CVPR 2020| Baidu Research |
+ 14 Nov 2020|
+ |21| HERO| HERO : Hierarchical Encoder for Video+Language Omni-representation Pre-training | [paper](https://arxiv.org/abs/2005.00200) [code](https://github.com/linjieli222/HERO)| EMNLP 2020| Microsoft Dynamics 365 AI Research| 1 May 2020|
+
 
 
 # cross-domain video-retreival 
