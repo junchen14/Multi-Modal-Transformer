@@ -25,9 +25,6 @@
 |21| VisDial-BERT | Large-scale Pretraining for Visual Dialog: A Simple State-of-the-Art Baseline | [paper](https://arxiv.org/abs/1912.02379) [code](https://github.com/vmurahari3/visdial-bert) | ECCV 2020 | 1Georgia Institute of Technology | 31 Mar 2020 |
 |22| OSCAR | Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks | [paper](https://arxiv.org/abs/2004.06165) [code](https://github.com/microsoft/Oscar) | ECCV 2020| Microsoft |13 Apr 2020|
 
-
-
-
  
 
 
