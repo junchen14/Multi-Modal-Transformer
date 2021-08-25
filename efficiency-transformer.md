@@ -16,7 +16,7 @@
 |13| - | parameter efficient multimodal transformers for video representation learning | [paper](https://openreview.net/forum?id=6UdQLhqJyFD) [code](https://github.com/sangho-vision/avbert) | __ICLR 2021__| Seoul National University | 8 Dec 2020|
 |14| Albert| Albert: A lite BERT for self-supervised learning of language prepresentations | [paper](https://openreview.net/pdf?id=H1eA7AEtvS) [code](https://github.com/google-research/ALBERT) | __ICLR 2020__| Google Research | 26 Sep 2019|
 |15| DEQ | Deep Equilibrium Models |[paper](https://proceedings.neurips.cc/paper/2019/file/01386bd6d8e091c2ab4c7c7de644d37b-Paper.pdf) [code](https://github.com/locuslab/deq) |  __NeurIPS 2019__| CMU |3 Sep 2019|
-
+|16| Universal Transformer | Universal Transformers | [paper](https://arxiv.org/pdf/1807.03819.pdf) [code](https://github.com/andreamad8/Universal-Transformer-Pytorch) | __ICLR 2019__| University of Amsterdam | 5 May 2019|
 
 
 
