@@ -13,7 +13,7 @@
 |10|Adaptive-Span |Adaptive Attention Span in Transformers |[paper](https://arxiv.org/pdf/1905.07799.pdf) [code](https://github.com/facebookresearch/adaptive-span)|__ACL 2019__|Facebook AI|19 May 2019|
 |11|reformer |reformer: the efficient transformer |[paper](https://arxiv.org/abs/2001.04451) [code](https://github.com/lucidrains/reformer-pytorch)|__ICLR 2020__|Google AI|13 Jan 2020|
 |12|Longformer |Longformer: The Long-Document Transformer |[paper](https://arxiv.org/abs/2004.05150) [code](https://github.com/allenai/longformer)|__ICLR 2020__|Allen Insitute for Artificial Intelligence|2 Dec 2020|
-
+|13| - | parameter efficient multimodal transformers for video representation learning | [paper](https://openreview.net/forum?id=6UdQLhqJyFD) [code](https://github.com/sangho-vision/avbert) | __ICLR 2021__| Seoul National University | 8 Dec 2020|
 
 
 
