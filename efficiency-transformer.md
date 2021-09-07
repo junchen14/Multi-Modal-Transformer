@@ -18,7 +18,7 @@
 |15| DEQ | Deep Equilibrium Models |[paper](https://proceedings.neurips.cc/paper/2019/file/01386bd6d8e091c2ab4c7c7de644d37b-Paper.pdf) [code](https://github.com/locuslab/deq) |  __NeurIPS 2019__| CMU |3 Sep 2019|
 |16| Universal Transformer | Universal Transformers | [paper](https://arxiv.org/pdf/1807.03819.pdf) [code](https://github.com/andreamad8/Universal-Transformer-Pytorch) | __ICLR 2019__| University of Amsterdam | 5 May 2019|
 |17| Linear Transformer | Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention | [paper](https://arxiv.org/pdf/2006.16236.pdf) [code](https://linear-transformers.com/) | __ICML 2020__ | Idiap Research Institute | 31 Aug 2020|
-
+|18| ∞-former | ∞-former: Infinite Memory Transformer | [paper](https://arxiv.org/pdf/2109.00301.pdf) | __arXiv__ |Pedro Henrique Martins | 1 Sep 2021|
 
 
 
