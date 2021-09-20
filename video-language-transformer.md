@@ -25,6 +25,7 @@
 |21| HERO| HERO : Hierarchical Encoder for Video+Language Omni-representation Pre-training | [paper](https://arxiv.org/abs/2005.00200) [code](https://github.com/linjieli222/HERO)| EMNLP 2020| Microsoft Dynamics 365 AI Research| 1 May 2020|
 |22| MM-ViT| MM-ViT: Multi-Modal Video Transformer for Compressed Video Action Recognition| [paper](https://arxiv.org/pdf/2108.09322.pdf) | arXiv | Oppo| 20 Aug 2021|
 |23| TPT |Temporal Pyramid Transformer with Multimodal Interaction for Video Question Answering | [paper](https://arxiv.org/pdf/2109.04735v1.pdf) | arXiv | Chinese Academy of Sciences | 10 Sep 2021|
+|24| ActionClip| ActionCLIP: A New Paradigm for Video Action Recognition | [paper](https://arxiv.org/pdf/2109.08472.pdf) [code](https://github.com/sallymmx/ActionCLIP.git) | arXiv | Zhejiang University  |17 Sep 2021|
 
 
 
