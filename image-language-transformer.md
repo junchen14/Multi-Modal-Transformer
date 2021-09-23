@@ -35,6 +35,7 @@
 |No.  |Model Name |Title |Links |Pub. | Organization| Release Time | 
 |-----|:-----:|:-----:|:-----:|:--------:|:---:|:-------:|
 |1|MDTER|  MDETR - Modulated Detection for End-to-End Multi-Modal Understanding   | [paper](https://arxiv.org/pdf/2104.12763.pdf)  [code](https://github.com/ashkamath/mdetr)  | __ICCV 2021__|NYU |26 April 2021|
+|2| pix2seq| pix2seq: A Language Modeling Framework for Object Detection| [paper](https://arxiv.org/abs/2109.10852) | arXiv | Google Research |  22 Sep 2021 |
 
 
 
