@@ -25,7 +25,7 @@
 |21| VisDial-BERT | Large-scale Pretraining for Visual Dialog: A Simple State-of-the-Art Baseline | [paper](https://arxiv.org/abs/1912.02379) [code](https://github.com/vmurahari3/visdial-bert) | ECCV 2020 | 1Georgia Institute of Technology | 31 Mar 2020 |
 |22| OSCAR | Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks | [paper](https://arxiv.org/abs/2004.06165) [code](https://github.com/microsoft/Oscar) | ECCV 2020| Microsoft |13 Apr 2020|
 |23| KD-VLP| KD-VLP: Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation |[paper](https://arxiv.or/pdf/2109.10504v1.pdf) | arXiv | ShanghaiTech | 22 Sep 2021|
-|24| Fast & Slow| Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers| CVPR 2021 |DeepMind | 30 Mar 2021|
+|24| Fast & Slow| Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers|[https://arxiv.org/abs/2103.16553]| CVPR 2021 |DeepMind | 30 Mar 2021|
  
 
 
