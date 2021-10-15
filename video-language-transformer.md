@@ -26,8 +26,7 @@
 |22| MM-ViT| MM-ViT: Multi-Modal Video Transformer for Compressed Video Action Recognition| [paper](https://arxiv.org/pdf/2108.09322.pdf) | arXiv | Oppo| 20 Aug 2021|
 |23| TPT |Temporal Pyramid Transformer with Multimodal Interaction for Video Question Answering | [paper](https://arxiv.org/pdf/2109.04735v1.pdf) | arXiv | Chinese Academy of Sciences | 10 Sep 2021|
 |24| ActionClip| ActionCLIP: A New Paradigm for Video Action Recognition | [paper](https://arxiv.org/pdf/2109.08472.pdf) [code](https://github.com/sallymmx/ActionCLIP.git) | arXiv | Zhejiang University  |17 Sep 2021|
-
-
+|25| justAsk | Just Ask: Learning to Answer Questions from Millions of Narrated Video|[paper](https://arxiv.org/pdf/2012.00451.pdf) [code](https://github.com/antoyang/just-ask) | ICCV 2021 | Inria Paris| 12 Aug 2021| 
 
 
 # cross-domain video-retreival 
