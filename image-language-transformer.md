@@ -26,7 +26,10 @@
 |22| OSCAR | Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks | [paper](https://arxiv.org/abs/2004.06165) [code](https://github.com/microsoft/Oscar) | ECCV 2020| Microsoft |13 Apr 2020|
 |23| KD-VLP| KD-VLP: Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation |[paper](https://arxiv.or/pdf/2109.10504v1.pdf) | arXiv | ShanghaiTech | 22 Sep 2021|
 |24| Fast & Slow| Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers|[paper](https://arxiv.org/abs/2103.16553)| CVPR 2021 |DeepMind | 30 Mar 2021|
- 
+|25| - |Unifying Multimodal Transfomer for Bi-directional Image and Text Generation | [paper](https://arxiv.org/abs/2110.09753) | Arxiv | Sun Yat-sen University| 19 Oct 2021 |
+|26|SOHO| Seeing Out of tHe bOx: End-to-End Pre-training for Vision-Language Representation Learning | [paper](https://arxiv.org/pdf/2104.03135.pdf) | CVPR 2021 | University of Science and Technology Beijing | 8 Apr 2021|
+|27| E2E-VLP | E2E-VLP: End-to-End Vision-Language Pre-training Enhanced by Visual| [paper](https://aclanthology.org/2021.acl-long.42.pdf) | ACL 2021| Alibaba Group | 3 June 2021|
+|28| KD-VLP | KD-VLP: Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation | [paper](https://arxiv.org/abs/2109.10504) |EMNLP 2021| ShanghaiTech| 22 Sep 2021|
 
 
 
