@@ -31,6 +31,8 @@
 |27| E2E-VLP | E2E-VLP: End-to-End Vision-Language Pre-training Enhanced by Visual| [paper](https://aclanthology.org/2021.acl-long.42.pdf) | ACL 2021| Alibaba Group | 3 June 2021|
 |28| KD-VLP | KD-VLP: Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation | [paper](https://arxiv.org/abs/2109.10504) |EMNLP 2021| ShanghaiTech| 22 Sep 2021|
 |29| L-Verse| L-Verse: Bidirectional Generation Between Image and Text| [paper](https://arxiv.org/pdf/2111.11133.pdf) | ArXiv | LG AI Research | 22 Nov 2021|
+|30| NUWA| NUWA: Visual Synthesis Pre-training for Neural visUal World creAtion| [paper](https://arxiv.org/pdf/2111.12417.pdf) | arXiv | MSRA| 24 Nov 2021|
+|31| Florence| Florence: A New Foundation Model for Computer Vision | [paper](https://arxiv.org/abs/2111.11432) | arXiv | Microsoft | 22 Nov 2021|
 
 
 
