@@ -16,3 +16,4 @@
 |12|-|An Image is Worth 16x16 Words, What is a Video Worth?| [paper](https://arxiv.org/pdf/2103.13915.pdf) [code](https://github.com/Alibaba-MIIL/STAM) | arXiv | Alibaba |27 May 2021|
 |13| SCT| Shifted Chunk Transformer for Spatio-Temporal Representational Learning | [paper](https://arxiv.org/pdf/2108.11575.pdf) | arXiv | Kuaishou Technology | 26 Aug 2021|
 |14| -| Evaluating Transformers for Lightweight Action Recognition | [paper](https://arxiv.org/pdf/2111.09641.pdf) | arXiv | University of Sheffield | 18 Nov 2021|
+|15| DualFormer| DualFormer: Local-Global Stratified Transformer for Efficient Video Recognition | [paper](https://arxiv.org/pdf/2112.04674v1.pdf) | arXiv |Sea AI Lab | 9 Dec 2021|
