@@ -17,3 +17,5 @@
 |13| SCT| Shifted Chunk Transformer for Spatio-Temporal Representational Learning | [paper](https://arxiv.org/pdf/2108.11575.pdf) | arXiv | Kuaishou Technology | 26 Aug 2021|
 |14| -| Evaluating Transformers for Lightweight Action Recognition | [paper](https://arxiv.org/pdf/2111.09641.pdf) | arXiv | University of Sheffield | 18 Nov 2021|
 |15| DualFormer| DualFormer: Local-Global Stratified Transformer for Efficient Video Recognition | [paper](https://arxiv.org/pdf/2112.04674v1.pdf) | arXiv |Sea AI Lab | 9 Dec 2021|
+|16| BEVT| BEVT: BERT Pretraining of Video Transformers | [paper](https://arxiv.org/pdf/2112.01529.pdf) | arXiv | Shanghai Key Lab of Intelligent Information Processing | 2 Dec 2021|
+
