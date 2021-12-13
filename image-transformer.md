@@ -28,6 +28,7 @@
 |25| -| Efficient Training of Visual Transformers with Small-Size Datasets | [paper](https://arxiv.org/pdf/2106.03746.pdf) | arXiv |TFBK| 7 Jun 2021|
 |26|PS-ViT | Vision Transformer with Progressive Sampling | [paper](https://arxiv.org/pdf/2108.01684.pdf) [code](https://github.com/yuexy/PS-ViT) | arXiv | Centre for Perceptual and Interactive Intelligence| 3 Aug 2021|
 |27|-| Masked Autoencoders Are Scalable Vision Learners| [paper](https://arxiv.org/pdf/2010.16056.pdf)  | arXiv | Facebook FAIR| 11 Nov 2021|
+|28| Evo-ViT | Evo-ViT: Slow-Fast Token Evolution for Dynamic Vision Transformer |[paper](https://arxiv.org/pdf/2108.01390.pdf) | arXiv | Chinese Academy of Sciences| 6 Dec 2021|
 
 # Viusal Relationship Detection
 |No.  |Model Name |Title |Links |Pub. | Organization| Release Time | 
