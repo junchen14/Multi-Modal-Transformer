@@ -30,6 +30,7 @@
 |27|-| Masked Autoencoders Are Scalable Vision Learners| [paper](https://arxiv.org/pdf/2010.16056.pdf)  | arXiv | Facebook FAIR| 11 Nov 2021|
 |28| Evo-ViT | Evo-ViT: Slow-Fast Token Evolution for Dynamic Vision Transformer |[paper](https://arxiv.org/pdf/2108.01390.pdf) | AAAI 2022 | Chinese Academy of Sciences| 6 Dec 2021|
 |29| ATS| ATS: Adaptive Token Sampling For Efficient Vision Transformers| [paper](https://arxiv.org/pdf/2111.15667.pdf) | arXiv | Microsoft|30 Nov 2021|
+|30| AdaViT | AdaViT: Adaptive Vision Transformers for Efficient Image Recognition| [paper](https://arxiv.org/pdf/2111.15668.pdf) | arXiv | Fudan University| 30 Nov 2021|
 
 # Viusal Relationship Detection
 |No.  |Model Name |Title |Links |Pub. | Organization| Release Time | 
