@@ -29,6 +29,7 @@
 |25| justAsk | Just Ask: Learning to Answer Questions from Millions of Narrated Video|[paper](https://arxiv.org/pdf/2012.00451.pdf) [code](https://github.com/antoyang/just-ask) | ICCV 2021 | Inria Paris| 12 Aug 2021| 
 |26| - | A Bilingual, Open World Video Text Dataset and End-to-end Video Text Spotter with Transformer| [paper](https://arxiv.org/pdf/2112.04888.pdf) [code](github.com/weijiawu/BOVText)| arXiv |Zhengjiang University| 9 Dec 2021|
 |27| SWINBERT| SWINBERT: End-to-End Transformers with Sparse Attention for Video Captioning | [paper](https://arxiv.org/pdf/2111.13196.pdf) | arXiv | Microsoft | 25 Nov 2021|
+|28 | VIOLET | VIOLET : End-to-End Video-Language Transformers with Masked Visual-token Modeling | [paper](https://arxiv.org/pdf/2111.12681.pdf) [code](https://github.com/tsujuifu/pytorch_violet) | arXiv | UC Santa Barbara|  24 Nov 2021|
 
 
 # cross-domain video-retreival 
