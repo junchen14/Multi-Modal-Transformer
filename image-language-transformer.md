@@ -34,6 +34,7 @@
 |30| NUWA| NUWA: Visual Synthesis Pre-training for Neural visUal World creAtion| [paper](https://arxiv.org/pdf/2111.12417.pdf) | arXiv | MSRA| 24 Nov 2021|
 |31| Florence| Florence: A New Foundation Model for Computer Vision | [paper](https://arxiv.org/abs/2111.11432) | arXiv | Microsoft | 22 Nov 2021|
 |32| -|Distilled Dual-Encoder Model for Vision-Language Understanding| [paper](https://arxiv.org/pdf/2112.08723v1.pdf) | arXiv | Microsoft | 16 Dec 2021|
+|33| FLAVA| FLAVA : A Foundational Language And Vision Alignment Model| [paper](https://arxiv.org/pdf/2112.04482.pdf) | arXiv | FAIR | 8 Dec 2021|
 
 
 
