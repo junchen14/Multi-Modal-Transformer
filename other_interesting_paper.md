@@ -13,3 +13,5 @@
 |9| MGSampler| MGSampler: An Explainable Sampling Strategy for Video Action Recognition| [paper](https://arxiv.org/abs/2104.09952)| ICCV 2021 | Nanjing university | 20 Apr 2021|
 |10| Expire Span| Not All Memories are Created Equal: Learning to Forget by Expiring | [paper](https://arxiv.org/pdf/2105.06548.pdf)| ICML 2021 | Facebook | 13 Jun 2021|
 |11| -| STEP-UNROLLED DENOISING AUTOENCODERS FOR TEXT GENERATION| [paper](https://arxiv.org/pdf/2112.06749.pdf) | arXiv | Deepmind|  13 Dec 2021| 
+|12| -| dataset meta-learning from kernel ridge regression| [paper](https://openreview.net/pdf?id=l-PrrQrK0QR) | arXiv | Google Brain| 22 Mar 2021 |
+|13| -| Dataset Distillation with Infinitely Wide Convolutional Networks| [paper](https://openreview.net/pdf?id=hXWPpJedrVP) | arXiv| Google Brain| 27 Oct 2021|
