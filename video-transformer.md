@@ -19,5 +19,4 @@
 |15| DualFormer| DualFormer: Local-Global Stratified Transformer for Efficient Video Recognition | [paper](https://arxiv.org/pdf/2112.04674v1.pdf) | arXiv |Sea AI Lab | 9 Dec 2021|
 |16| BEVT| BEVT: BERT Pretraining of Video Transformers | [paper](https://arxiv.org/pdf/2112.01529.pdf) | arXiv | Shanghai Key Lab of Intelligent Information Processing | 2 Dec 2021|
 |17|-| Efficient Video Transformers with Spatial-Temporal Token Selection|[paper](https://arxiv.org/pdf/2111.11591.pdf)| arXiv | Shanghai Key Lab of Intelligent Information Processing | 23 Nov 2021|
-|18| -| Lite Vision Transformer with Enhanced Self-Attention| [paper](https://arxiv.org/pdf/2112.10809.pdf) [code](https://github.com/Chenglin-Yang/LVT) | arXiv | 1
-Johns Hopkins University | 20 Dec 2021|
+|18| -| Lite Vision Transformer with Enhanced Self-Attention| [paper](https://arxiv.org/pdf/2112.10809.pdf) [code](https://github.com/Chenglin-Yang/LVT) | arXiv | Johns Hopkins University | 20 Dec 2021|
