@@ -10,3 +10,4 @@
 |6|-| Chasing Sparsity in Vision Transformers: An End-to-End Exploration| [paper](https://arxiv.org/pdf/2106.04533.pdf) [code](https://github.com/VITA-Group/SViTE) | __arXiv__| University of Texas at Austin| 22 Oct 2021|
 |7|DeIT| Training data-efficient image transformers & distillation through attention | [paper](https://arxiv.org/pdf/2012.12877.pdf) | __ICML 2021__|Facebook | 15 Jan 2021|
 |8| -|Post-Training Quantization for Vision Transformer| [paper](https://arxiv.org/abs/2106.14156) | __NeurIPS 2021__| Peking University| 27 Jun 2021|
+|9| -| Multi-Dimensional Model Compression of Vision Transformer | [paper](https://arxiv.org/pdf/2201.00043.pdf) | __arXiv__| Princeton University |31 Dec 2021|
