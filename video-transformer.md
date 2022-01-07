@@ -20,3 +20,4 @@
 |16| BEVT| BEVT: BERT Pretraining of Video Transformers | [paper](https://arxiv.org/pdf/2112.01529.pdf) | arXiv | Shanghai Key Lab of Intelligent Information Processing | 2 Dec 2021|
 |17|-| Efficient Video Transformers with Spatial-Temporal Token Selection|[paper](https://arxiv.org/pdf/2111.11591.pdf)| arXiv | Shanghai Key Lab of Intelligent Information Processing | 23 Nov 2021|
 |18| -| Lite Vision Transformer with Enhanced Self-Attention| [paper](https://arxiv.org/pdf/2112.10809.pdf) [code](https://github.com/Chenglin-Yang/LVT) | arXiv | Johns Hopkins University | 20 Dec 2021|
+|19|MViT| Multiscale Vision Transformers| [paper](https://arxiv.org/pdf/2104.11227.pdf) [code](https://github.com/facebookresearch/SlowFast)| ICCV 2021 | Facebook| 22 Apr 2021|
