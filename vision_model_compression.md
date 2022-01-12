@@ -12,3 +12,4 @@
 |8| -|Post-Training Quantization for Vision Transformer| [paper](https://arxiv.org/abs/2106.14156) | __NeurIPS 2021__| Peking University| 27 Jun 2021|
 |9| -| Multi-Dimensional Model Compression of Vision Transformer | [paper](https://arxiv.org/pdf/2201.00043.pdf) | __arXiv__| Princeton University |31 Dec 2021|
 |10|-| Patch Slimming for Efficient Vision Transformers|[paper](https://arxiv.org/pdf/2106.02852.pdf) | __arXiv__ |Peking University|5 Jun 2021|
+|11|-| Chasing Sparsity in Vision Transformers: An End-to-End Exploration| [paper](https://arxiv.org/pdf/2106.04533.pdf) [code](https://github.com/VITA-Group/SViTE)| NeurIPS 2021 | University of Texas at Austin|22 Oct 2021|
