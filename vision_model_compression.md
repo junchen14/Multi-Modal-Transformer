@@ -11,3 +11,4 @@
 |7|DeIT| Training data-efficient image transformers & distillation through attention | [paper](https://arxiv.org/pdf/2012.12877.pdf) | __ICML 2021__|Facebook | 15 Jan 2021|
 |8| -|Post-Training Quantization for Vision Transformer| [paper](https://arxiv.org/abs/2106.14156) | __NeurIPS 2021__| Peking University| 27 Jun 2021|
 |9| -| Multi-Dimensional Model Compression of Vision Transformer | [paper](https://arxiv.org/pdf/2201.00043.pdf) | __arXiv__| Princeton University |31 Dec 2021|
+|10|-| Patch Slimming for Efficient Vision Transformers|[paper](https://arxiv.org/pdf/2106.02852.pdf) | __arXiv__ |Peking University|5 Jun 2021|
