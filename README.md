@@ -59,8 +59,9 @@ This repo is aimed to collect all the recent popular Transformer paper, codes an
 
 - [Efficient Transformer](efficiency-transformer.md)
 
+- [model compression](vision-model-compression.md)
 
-- [MLP for Image Classification](MLP-mixer.md)
+<!-- - [MLP for Image Classification](MLP-mixer.md) -->
 
 - [other interested papers in related domains](other_interesting_paper.md)
 
