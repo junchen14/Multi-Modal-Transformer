@@ -20,7 +20,7 @@
 |17| Linear Transformer | Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention | [paper](https://arxiv.org/pdf/2006.16236.pdf) [code](https://linear-transformers.com/) | __ICML 2020__ | Idiap Research Institute | 31 Aug 2020|
 |18| ∞-former | ∞-former: Infinite Memory Transformer | [paper](https://arxiv.org/pdf/2109.00301.pdf) | __arXiv__ |Pedro Henrique Martins | 1 Sep 2021|
 |19| ATS| ATS: Adaptive Token Sampling For Efficient Vision Transformers| [paper](https://arxiv.org/pdf/2111.15667.pdf) | arXiv | Microsoft|30 Nov 2021|
-
+|20 |TerViT |TerViT: An Efficient Ternary Vision Transformer |[paper](https://arxiv.org/pdf/2201.08050.pdf) | arXiv| Beihang University| 20 Jan 2022|
 
 
 
