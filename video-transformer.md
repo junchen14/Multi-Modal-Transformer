@@ -24,3 +24,4 @@
 |20| Uniformer| Uniformer: Unified Transformer For Efficient Spatiotemporal Representation Learning| [paper](https://openreview.net/pdf?id=nBU_u6DLvoK) [code](https://github.com/sense-x/uniformer) | arXiv | Chinese Academy of Sciences|12 Jan 2022|
 |21|MaskFeat| Masked Feature Prediction for Self-Supervised Visual Pre-Training| [paper](https://arxiv.org/pdf/2112.09133v1.pdf)| arXiv | Facebook AI |16 Dec 2021|
 |22|MTV| Multiview Transformers for Video Recognition| [paper](https://arxiv.org/pdf/2201.04288.pdf) |arXiv| Google | 20 Jan 2022|
+
