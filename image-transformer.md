@@ -32,7 +32,7 @@
 |29| ATS| ATS: Adaptive Token Sampling For Efficient Vision Transformers| [paper](https://arxiv.org/pdf/2111.15667.pdf) | arXiv | Microsoft|30 Nov 2021|
 |30| AdaViT | AdaViT: Adaptive Vision Transformers for Efficient Image Recognition| [paper](https://arxiv.org/pdf/2111.15668.pdf) | arXiv | Fudan University| 30 Nov 2021|
 |31| PeCo| PeCo : Perceptual Codebook for BERT Pre-training of Vision Transformers| [paper](https://arxiv.org/pdf/2111.12710.pdf) [code](https://github.com/microsoft/PeCo) | arXiv | University of Science and Technology of China| 24 Nov 2021|
-|32| Vision Transformer with Deformable Attention | [paper](https://arxiv.org/pdf/2201.00520.pdf) [code](https://github.com/LeapLabTHU/DAT) |arXiv | Tsinghua University | 3 Jan 2022|
+|32| DAT| Vision Transformer with Deformable Attention | [paper](https://arxiv.org/pdf/2201.00520.pdf) [code](https://github.com/LeapLabTHU/DAT) |arXiv | Tsinghua University | 3 Jan 2022|
 
 
 
