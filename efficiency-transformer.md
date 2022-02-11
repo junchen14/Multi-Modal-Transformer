@@ -23,6 +23,7 @@
 |20 |TerViT |TerViT: An Efficient Ternary Vision Transformer |[paper](https://arxiv.org/pdf/2201.08050.pdf) | arXiv| Beihang University| 20 Jan 2022|
 |21| Lite Transformer| Lite Transformer with long-short range attention| [paper](https://arxiv.org/pdf/2004.11886.pdf) [code](https://github.com/mit-han-lab/lite-transformer) | __ICLR 2020__ | MiT | 24 Apr 2020|
 |22|UVC|  Unitified Visual Transformer Compression  [paper](https://github.com/VITA-Group/UVC) [code](https://github.com/VITA-Group/UVC) |__ICLR 2022__ |University of Texas at Austin| 29 Sept 2021|
+|23|MobileVIT| MobileVIT: light-weight, general-purpose，and mobile-friendly vision transformers | __ICLR 2022__| Apple | 5 Oct 2021|
 
 
 
