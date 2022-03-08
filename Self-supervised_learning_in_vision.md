@@ -8,7 +8,7 @@
 |4| MAE | Masked Autoencoders Are Scalable Vision Learners| [paper](https://arxiv.org/pdf/2111.06377.pdf) [code](https://github.com/facebookresearch/mae)| CVPR 2022| Meta | 19 Dec 2021|
 |5| iBoT | iBOT: Image BERT Pre-Training with Online Tokenizer| [paper](https://arxiv.org/pdf/2111.07832.pdf) [code](https://github.com/bytedance/ibot) | ICLR 2022 | 15 Nov 2021| 
 |6| SimMIM| SimMIM: A Simple Framework for Masked Image Modeling | [paper](https://arxiv.org/pdf/2111.09886.pdf) [code](https://github.com/microsoft/SimMIM) | arXiv| MSRA| 18 Nov 2021| 
-|7| PeCo | 	PeCo: Perceptual Codebook for BERT Pre-training of Vision Transformers | [paper](https://arxiv.org/pdf/2111.12710.pdf) |arXiv|  Univeristy of Science and TechonoloMasked Feature Prediction for Self-Supervised Visual Pre-Traininggy of China | 24 Nov 2021|
+|7| PeCo | 	PeCo: Perceptual Codebook for BERT Pre-training of Vision Transformers | [paper](https://arxiv.org/pdf/2111.12710.pdf) |arXiv|  Univeristy of Science and Technology of China | 24 Nov 2021|
 |8| MaskFeat | 	Masked Feature Prediction for Self-Supervised Visual Pre-Training | [paper](https://arxiv.org/pdf/2112.09133.pdf) | arXiv | Meta | 16 Dec 2021|
 |9| SplitMask | Are Large-scale Datasets Necessary for Self-Supervised Pre-training? | [paper](https://arxiv.org/pdf/2112.10740.pdf) | arXiv | Meta | 20 Dec 2021 | 
 |10| ADIOS | Adversarial Masking for Self-Supervised Learning| [paper](https://arxiv.org/pdf/2201.13100.pdf) | arXiv | Unviersity of Oxford | 31 Jan 2021|
