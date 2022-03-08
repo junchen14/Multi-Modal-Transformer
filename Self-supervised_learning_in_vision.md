@@ -13,5 +13,5 @@
 |9| SplitMask | Are Large-scale Datasets Necessary for Self-Supervised Pre-training? | [paper](https://arxiv.org/pdf/2112.10740.pdf) | arXiv | Meta | 20 Dec 2021 | 
 |10| ADIOS | Adversarial Masking for Self-Supervised Learning| [paper](https://arxiv.org/pdf/2201.13100.pdf) | arXiv | Unviersity of Oxford | 31 Jan 2021|
 |11| CAE | Context Autoencoder for Self-Supervised Representation Learning | [paper](https://arxiv.org/pdf/2202.03026.pdf) | arXiv | Peking University | 7 Feb 2022 |
-|12| Corrupted Image Modeling for Self-Supervised Visual Pre-Training| [paper](https://arxiv.org/pdf/2202.03382.pdf) [code](https://github.com/microsoft/unilm) | arXiv | Microsoft | 7 Feb 2022|
+|12| CIM| Corrupted Image Modeling for Self-Supervised Visual Pre-Training| [paper](https://arxiv.org/pdf/2202.03382.pdf) [code](https://github.com/microsoft/unilm) | arXiv | Microsoft | 7 Feb 2022|
 
