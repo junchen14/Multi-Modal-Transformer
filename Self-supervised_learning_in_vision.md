@@ -6,7 +6,7 @@
 |2| MST | MST: Masked Self-Supervised Transformer for Visual Representation | [paper](https://arxiv.org/pdf/2106.05656.pdf) | __NeurIPS 2021__|Chinese Academy of Sciences| 10 June 2021|
 |3|BEiT| BEiT: BERT Pre-Training of Image Transformers| [paper](https://arxiv.org/abs/2106.08254) [code](https://github.com/microsoft/unilm/tree/master/beit) | __ICLR 2022__|Microsoft Research| 15 June 2021|
 |4| MAE | Masked Autoencoders Are Scalable Vision Learners| [paper](https://arxiv.org/pdf/2111.06377.pdf) [code](https://github.com/facebookresearch/mae)| CVPR 2022| Meta | 19 Dec 2021|
-|5| iBoT | iBOT: Image BERT Pre-Training with Online Tokenizer| [paper](https://arxiv.org/pdf/2111.07832.pdf) [code](https://github.com/bytedance/ibot) | ICLR 2022 | 15 Nov 2021| 
+|5| iBoT | iBOT: Image BERT Pre-Training with Online Tokenizer| [paper](https://arxiv.org/pdf/2111.07832.pdf) [code](https://github.com/bytedance/ibot) | ICLR 2022 | ByteDance |15 Nov 2021| 
 |6| SimMIM| SimMIM: A Simple Framework for Masked Image Modeling | [paper](https://arxiv.org/pdf/2111.09886.pdf) [code](https://github.com/microsoft/SimMIM) | arXiv| MSRA| 18 Nov 2021| 
 |7| PeCo | 	PeCo: Perceptual Codebook for BERT Pre-training of Vision Transformers | [paper](https://arxiv.org/pdf/2111.12710.pdf) |arXiv|  Univeristy of Science and Technology of China | 24 Nov 2021|
 |8| MaskFeat | 	Masked Feature Prediction for Self-Supervised Visual Pre-Training | [paper](https://arxiv.org/pdf/2112.09133.pdf) | arXiv | Meta | 16 Dec 2021|
