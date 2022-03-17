@@ -61,6 +61,8 @@ This repo is aimed to collect all the recent popular Transformer paper, codes an
 
 - [model compression](vision_model_compression.md)
 
+- [Self Supverpervised Learning in Vision](Self-supervised_learning_in_vision.md)
+
 <!-- - [MLP for Image Classification](MLP-mixer.md) -->
 
 - [other interested papers in related domains](other_interesting_paper.md)
