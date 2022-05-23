@@ -17,6 +17,7 @@ Self-supervised learning for Images
 |11| CAE | Context Autoencoder for Self-Supervised Representation Learning | [paper](https://arxiv.org/pdf/2202.03026.pdf) | arXiv | Peking University | 7 Feb 2022 |
 |12| CIM| Corrupted Image Modeling for Self-Supervised Visual Pre-Training| [paper](https://arxiv.org/pdf/2202.03382.pdf) [code](https://github.com/microsoft/unilm) | arXiv | Microsoft | 7 Feb 2022|
 |13| ConvMAE | ConvMAE: Masked Convolution Meets Masked Autoencoders |[paper](https://arxiv.org/pdf/2205.03892.pdf) [code](https://github.com/Alpha-VL/ConvMAE) | arXiv | Shanghai AI Laboratory |  19 May 2022 |
+|14 | uniform masking | Uniform Masking: Enabling MAE Pre-training for Pyramid-based Vision Transformers with Locality | [paper](https://arxiv.org/pdf/2205.10063.pdf)  [code](https://github.com/implus/UM-MAE) | arXiv | Nanjing University of Science and Technology | 20 May 2022|
 
 
 
