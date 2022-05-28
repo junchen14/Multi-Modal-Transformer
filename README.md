@@ -5,40 +5,6 @@ We are a team from KAUST [Vision-CAIR group](https://cemse.kaust.edu.sa/vision-c
 This repo is aimed to collect all the recent popular Transformer paper, codes and learning resources with respect to the domains of **Vision Transformer**, **NLP** and **multi-modal**, etc. 
 
 
-### Recent News
-
-> CVPR multi-modal papers are collected in [here](MultiModal-CVPR2021.md)
- 
-> The code of VisualGPT is open sourced. They can be found  [here](image-language-transformer.md)
-
-> The code and paper of LeViT is open sourced. They can be found [here](image-transformer.md)
-
-> The paper MLP-Mixer: An all-MLP Architecture for Vision is availble [here](MLP-mixer.md)
-
-> The code and paper of MDTER is open sourced. They can be found [here](image-language-transformer.md)
-
-> The code and papper of RelTransformer is open sourced. They can be found  [here](image-transformer.md)
-
-> The code and paper of Twins-SVT is open sourced. They can be found  [here](image-transformer.md)	
-
-> Vision Transformer for deepfake detection. They can be found  [here](image-transformer.md)
-
-> The code of VideoGPT is open sourced. They can be found  [here](video-transformer.md)
-
-> The code of CoaT is open sourced. They can be found [here](image-transformer.md)
-
-> The code of Kaleido-BERT is open sourced. They can be found  [here](image-language-transformer.md)
- 
- > The code of TimeSformer is open sourced.  They can be found  [here](video-transformer.md)
-
- > The code of SwinTransformer is open sourced. They can be found  [here](image-transformer.md) 
-
- 
-
- 
-
-
-
 
 
 ### Topics (paper and code)
