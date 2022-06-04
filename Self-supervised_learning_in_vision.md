@@ -18,7 +18,7 @@ Self-supervised learning for Images
 |12| CIM| Corrupted Image Modeling for Self-Supervised Visual Pre-Training| [paper](https://arxiv.org/pdf/2202.03382.pdf) [code](https://github.com/microsoft/unilm) | arXiv | Microsoft | 7 Feb 2022|
 |13| ConvMAE | ConvMAE: Masked Convolution Meets Masked Autoencoders |[paper](https://arxiv.org/pdf/2205.03892.pdf) [code](https://github.com/Alpha-VL/ConvMAE) | arXiv | Shanghai AI Laboratory |  19 May 2022 |
 |14 | uniform masking | Uniform Masking: Enabling MAE Pre-training for Pyramid-based Vision Transformers with Locality | [paper](https://arxiv.org/pdf/2205.10063.pdf)  [code](https://github.com/implus/UM-MAE) | arXiv | Nanjing University of Science and Technology | 20 May 2022|
-|15| Efficient self-supervised learning with local masked reconstruction | [paper](https://arxiv.org/pdf/2206.00790.pdf) [code](https://github.com/junchen14/LoMaR) | arXiv| King Abdullah University of Science and Technology | 1 Jun 2022 |
+|15| LoMaR | Efficient self-supervised learning with local masked reconstruction | [paper](https://arxiv.org/pdf/2206.00790.pdf) [code](https://github.com/junchen14/LoMaR) | arXiv| King Abdullah University of Science and Technology | 1 Jun 2022 |
 
 
 Self-supervised Learning for Videos
