@@ -21,6 +21,7 @@ Self-supervised learning for Images
 |15| LoMaR | Efficient self-supervised learning with local masked reconstruction | [paper](https://arxiv.org/pdf/2206.00790.pdf) [code](https://github.com/junchen14/LoMaR) | arXiv| KAUST | 1 Jun 2022 |
 |16| M3AE | Multimodal Masked Autoencoders Learn Transferable Representations | [paper](https://arxiv.org/pdf/2205.14204.pdf) | arXiv | UCB | 31 May 2022|
 |17| HiViT| HiViT: Hierarchical Vision Transformer Meets Masked Image Modeling | [paper](https://arxiv.org/pdf/2205.14949.pdf) | arXiv | University of Chinese Academy of Sciences | 30 May 2022 |
+|18 | GreenMiM |  Green Hierarchical Vision Transformer for Masked Image Modeling | [paper](https://arxiv.org/pdf/2205.13515v1.pdf) [code](https://github.com/LayneH/GreenMIM) | arXiv | The University of Tokyo | 26 May 2022 | 
 
 
 Self-supervised Learning for Videos
