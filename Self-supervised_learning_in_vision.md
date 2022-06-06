@@ -22,6 +22,7 @@ Self-supervised learning for Images
 |16| M3AE | Multimodal Masked Autoencoders Learn Transferable Representations | [paper](https://arxiv.org/pdf/2205.14204.pdf) | arXiv | UCB | 31 May 2022|
 |17| HiViT| HiViT: Hierarchical Vision Transformer Meets Masked Image Modeling | [paper](https://arxiv.org/pdf/2205.14949.pdf) | arXiv | University of Chinese Academy of Sciences | 30 May 2022 |
 |18 | GreenMiM |  Green Hierarchical Vision Transformer for Masked Image Modeling | [paper](https://arxiv.org/pdf/2205.13515v1.pdf) [code](https://github.com/LayneH/GreenMIM) | arXiv | The University of Tokyo | 26 May 2022 | 
+|19| A^2MIM |Architecture-Agnostic Masked Image Modeling – From ViT back to CNN   | [paper](https://arxiv.org/pdf/2205.13943.pdf) | arXiv | AI Lab, Westlake University | 1 Jun 2022|
 
 
 Self-supervised Learning for Videos
