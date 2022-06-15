@@ -42,7 +42,7 @@ Review Paper in multi-modal
 
 - [From VQA to VLN: Recent Advances in Vision-and-Language Research: IEEE CVPR 2021 Tutorial](https://youtube.com/playlist?list=PLUgbVHjDhari645g1zmpo-MtOVap1FKxh)
 
-
+- [Tutorial on MultiModal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-tutorial/cvpr2022/)
 
 
 
