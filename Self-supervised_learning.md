@@ -39,7 +39,7 @@ Self-supervised Learning for Videos
 Self-supervised Learning for Audios
 |No.  |Model Name |Title |Links |Pub. | Organization| Release Time |
 |-----|:-----:|:-----:|:-----:|:--------:|:---:|:-------:|
-|1| AudioMAE| Masked Autoencoders that Listen | [paper](https://arxiv.org/pdf/2207.06405v1.pdf) [code](https://github.com/facebookresearch/AudioMAE) | arXiv |  Meta AI | 13 Jul 2022|
+|1| AudioMAE| Masked Autoencoders that Listen | [paper](https://arxiv.org/pdf/2207.06405v1.pdf)  [code](https://github.com/facebookresearch/AudioMAE) | arXiv |  Meta AI | 13 Jul 2022|
 
 
 
