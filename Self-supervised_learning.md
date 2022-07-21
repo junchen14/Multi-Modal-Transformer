@@ -34,3 +34,12 @@ Self-supervised Learning for Videos
 |-----|:-----:|:-----:|:-----:|:--------:|:---:|:-------:|
 |1| VideoMAE| VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training | [paper](https://arxiv.org/abs/2203.12602) [code](https://github.com/MCG-NJU/VideoMAE) | arXiv |  Tencent AI Lab | 23 Mar 2022 |
 |2|MAE in Video| Masked Autoencoders As Spatiotemporal Learners | [paper](https://arxiv.org/pdf/2205.09113.pdf) | arXiv | Meta | 18 May 2022 |
+
+
+Self-supervised Learning for Audios
+|No.  |Model Name |Title |Links |Pub. | Organization| Release Time |
+|-----|:-----:|:-----:|:-----:|:--------:|:---:|:-------:|
+|1| AudioMAE| Masked Autoencoders that Listen | [paper](https://arxiv.org/pdf/2207.06405v1.pdf) [code](https://github.com/facebookresearch/AudioMAE) | arXiv |  Meta AI | 13 Jul 2022|
+
+
+
