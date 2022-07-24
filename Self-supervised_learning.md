@@ -28,6 +28,7 @@ Self-supervised learning for Images
 |22 | Voxel-MAE | Voxel-MAE: Masked Autoencoders for Pre-training Large-scale Point Clouds | [paper](https://arxiv.org/pdf/2206.09900.pdf) [code](https://github.com/chaytonmin/Voxel-MAE) | arXiv | Peking University | 20 Jun 2022|
 |23 | BootMAE |Bootstrapped Masked Autoencoders for Vision BERT Pretraining| [paper](https://arxiv.org/pdf/2207.07116.pdf) [code](https://github.com/LightDXY/BootMAE) | ECCV 2022 | University of Science and Technology of China | 14 Jul 2022|
 |24 | OmniMAE | OmniMAE: Single Model Masked Pretraining on Images and Videos| [paper](https://arxiv.org/pdf/2206.08356.pdf) [code](https://github.com/facebookresearch/omnivore) | arXiv | Meta AI | 16 Jun 2022|
+|25 | SatMAE| SatMAE: Pre-training Transformers for Temporal and Multi-Spectral Satellite Imagery| [paper](https://arxiv.org/pdf/2207.08051.pdf) | arXiv | Stanford University | 17 Jul 2022 |
 
 Self-supervised Learning for Videos
 |No.  |Model Name |Title |Links |Pub. | Organization| Release Time |
