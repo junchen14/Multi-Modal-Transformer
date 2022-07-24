@@ -30,6 +30,7 @@
 |26| - | A Bilingual, Open World Video Text Dataset and End-to-end Video Text Spotter with Transformer| [paper](https://arxiv.org/pdf/2112.04888.pdf) [code](github.com/weijiawu/BOVText)| arXiv |Zhengjiang University| 9 Dec 2021|
 |27| SWINBERT| SWINBERT: End-to-End Transformers with Sparse Attention for Video Captioning | [paper](https://arxiv.org/pdf/2111.13196.pdf) | arXiv | Microsoft | 25 Nov 2021|
 |28 | VIOLET | VIOLET : End-to-End Video-Language Transformers with Masked Visual-token Modeling | [paper](https://arxiv.org/pdf/2111.12681.pdf) [code](https://github.com/tsujuifu/pytorch_violet) | arXiv | UC Santa Barbara|  24 Nov 2021|
+|29| FasionViL | FashionViL: Fashion-Focused Vision-and-Language Representation Learning | [paper](https://arxiv.org/pdf/2207.08150.pdf) [github](https://github.com/BrandonHanx/mmf) | ECCV 2022 | University of Surrey | 17 Jul 2022 |
 
 
 # cross-domain video-retreival 
