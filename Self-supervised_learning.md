@@ -45,4 +45,8 @@ Self-supervised Learning for Audios
 |1| AudioMAE| Masked Autoencoders that Listen | [paper](https://arxiv.org/pdf/2207.06405v1.pdf)  [code](https://github.com/facebookresearch/AudioMAE) | arXiv |  Meta AI | 13 Jul 2022|
 
 
+Survey in self-supervised learning
+|No.  |Title |Links |Pub. | Organization| Release Time |
+|-----|:-----:|:-----:|:--------:|:---:|:-------:|
+|1|A Survey on Masked Autoencoder for Self-supervised Learning in Vision and Beyond | https://arxiv.org/pdf/2208.00173.pdf | KAIST| 30 Jul 2022|
 
