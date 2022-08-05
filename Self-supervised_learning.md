@@ -48,5 +48,5 @@ Self-supervised Learning for Audios
 Survey in self-supervised learning
 |No.  |Title |Links |Pub. | Organization| Release Time |
 |-----|:-----:|:-----:|:--------:|:---:|:-------:|
-|1|A Survey on Masked Autoencoder for Self-supervised Learning in Vision and Beyond | https://arxiv.org/pdf/2208.00173.pdf |arXiv| KAIST| 30 Jul 2022|
+|1|A Survey on Masked Autoencoder for Self-supervised Learning in Vision and Beyond | [paper](https://arxiv.org/pdf/2208.00173.pdf) |arXiv| KAIST| 30 Jul 2022|
 
