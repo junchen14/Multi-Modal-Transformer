@@ -30,6 +30,7 @@ Self-supervised learning for Images
 |24 | OmniMAE | OmniMAE: Single Model Masked Pretraining on Images and Videos| [paper](https://arxiv.org/pdf/2206.08356.pdf) [code](https://github.com/facebookresearch/omnivore) | arXiv | Meta AI | 16 Jun 2022|
 |25 | SatMAE| SatMAE: Pre-training Transformers for Temporal and Multi-Spectral Satellite Imagery| [paper](https://arxiv.org/pdf/2207.08051.pdf) | arXiv | Stanford University | 17 Jul 2022 |
 |26 | CMAE | Contrastive Masked Autoencoders are Stronger Vision Learners | [paper](https://arxiv.org/abs/2207.13532) | arXiv | University of Science and Technology | 27 Jul 2022 |
+|27| BEiT v2 | BEIT V2: Masked Image Modeling with Vector-Quantized Visual Tokenizers | [paper](https://arxiv.org/pdf/2208.06366.pdf) | arXiv| University of Chinese Academy of Sciences | 12 Aug 2022|
 
 
 Self-supervised Learning for Videos
